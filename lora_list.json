@@ -1,0 +1,2317 @@
+{
+    "Artist Style: 甘城なつき": {
+        "model_title": "Artist Style: 甘城なつき",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_nachoneko.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-gan_cheng_3-000044.safetensors"
+            },
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-gan_cheng_31.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-nachoneko_3-000032.safetensors"
+            }
+        ]
+    },
+    "Artist Style: rurudo": {
+        "model_title": "Artist Style: rurudo",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_rurudo.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-rurudo_2.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-rurudo_1-000030.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-rurudo_2-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.2",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-rurudo_3-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.3",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-rurudo_7-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.4",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-rurudo_8-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: Deyui": {
+        "model_title": "Artist Style: Deyui",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_deyui.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-deyui_4-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-deyui_1-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-deyui_3-000035.safetensors"
+            }
+        ]
+    },
+    "Artist Style: ちょみます": {
+        "model_title": "Artist Style: ちょみます",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_tyomimas.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-tyomimas_1-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-tyomimas_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-tyomimas_3-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: linhai": {
+        "model_title": "Artist Style: linhai",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_linhai.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-linhai_1-000038.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-linhai_1-000034.safetensors"
+            }
+        ]
+    },
+    "Aritst Style: viclim monou": {
+        "model_title": "Aritst Style: viclim monou",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_viclim_monou.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-viclim-monou_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-viclim-monou_2-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-10-viclim-monou_4-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: yeurei": {
+        "model_title": "Artist Style: yeurei",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_yeurei.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-yeurei_1-000042.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-yeurei_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 遠坂あさぎ": {
+        "model_title": "Artist Style: 遠坂あさぎ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_toosaka_asagi.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-asagi_0398_1-000028.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-asagi_0398_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-toosaka_asagi_3-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.2",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-toosaka_asagi_5-000038.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.3",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-toosaka_asagi_7-000035.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.4",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-toosaka_asagi_8-000035.safetensors"
+            }
+        ]
+    },
+    "Artist Style: Noyu": {
+        "model_title": "Artist Style: Noyu",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_noyu.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-Noyu_2.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Noyu_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Noyu_3-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 胡麻乃りお": {
+        "model_title": "Artist Style: 胡麻乃りお",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_gomalio_y.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-gomalio_y_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-gomalio_y_1-000032.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 千千結": {
+        "model_title": "Artist Style: 千千結",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_qian_qian_jie.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-qian_qian_jie_2-000022.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-qian_qian_jie_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-qian_qian_jie_3-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: Sheya": {
+        "model_title": "Artist Style: Sheya",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_sheya.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-Sheya_2-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-sheya_1-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-sheya_3-000038.safetensors"
+            }
+        ]
+    },
+    "Style: Blue Archive Flat Color": {
+        "model_title": "Style: Blue Archive Flat Color",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/style_blue_archive_flat_color.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-blue_archive_official_6-000042.safetensors"
+            },
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-blue_archive_official_7-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Blue_Archive_Official_3-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Blue_Archive_Official_8-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: sei umehara": {
+        "model_title": "Artist Style: sei umehara",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_sei_umehara.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-sei_umehara_1-000044.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-sei_umehara_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-sei_umehara_3-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: rafa": {
+        "model_title": "Artist Style: rafa",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_rafa.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-rafa_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-rafa_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 夢ノ内": {
+        "model_title": "Artist Style: 夢ノ内",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_yume335.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-yume335_1-000038.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-yume335_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-yume335_3-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: Yunouou10": {
+        "model_title": "Artist Style: Yunouou10",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_yunouou10.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-Yunouou10_1-000042.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Yunouou10_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: Renren": {
+        "model_title": "Artist Style: Renren",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_renren.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-Renren_1-000044.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Renren_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: AL光": {
+        "model_title": "Artist Style: AL光",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_al17460600.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-AL17460600_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-AL17460600_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: フルーツラビット": {
+        "model_title": "Artist Style: フルーツラビット",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_fruitsrabbit.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-fruitsrabbit_1-000030.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-fruitsrabbit_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-fruitsrabbit_3-000038.safetensors"
+            }
+        ]
+    },
+    "Character: 星穹铁道 - 知更鸟": {
+        "model_title": "Character: 星穹铁道 - 知更鸟",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/character_robin.png",
+        "trigger_words": "robin \\(honkai: star rail\\)",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/character/ag31-robin_1-000028.safetensors"
+            }
+        ]
+    },
+    "Artist Style: void_0": {
+        "model_title": "Artist Style: void_0",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_void_0.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-void_0_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-void_0_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 上倉エク": {
+        "model_title": "Artist Style: 上倉エク",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_ekureea.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-ekureea_1-000040.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ekureea_1-000038.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ekureea_3-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: ノーコピーライトガール": {
+        "model_title": "Artist Style: ノーコピーライトガール",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_nocopyrightgirl.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-nocopyrightgirl_1-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-nocopyrightgirl_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-nocopyrightgirl_3-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 紺屋鴉江": {
+        "model_title": "Artist Style: 紺屋鴉江",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_konya666.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-KonYa666_2-000038.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-KonYa666_4-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-KonYa666_6-000038.safetensors"
+            },
+            {
+                "model_name": "NoobXL Vpre",
+                "model_link": "https://civitai.com/models/833294?modelVersionId=1190596",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/noob-xl-vpre-10-KonYa666_1-000035.safetensors"
+            }
+        ]
+    },
+    "Artist Style: momoimon": {
+        "model_title": "Artist Style: momoimon",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_momoimon.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-momoimon_1-000040.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-momoimon_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: a20": {
+        "model_title": "Artist Style: a20",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_a20.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-a20_2-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-a20_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: いかり": {
+        "model_title": "Artist Style: いかり",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_ikari.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-ikari_1-000038.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ikari_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: にんげんまめ": {
+        "model_title": "Artist Style: にんげんまめ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_ningen_mame.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-ningen_mame_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ningen_mame_1-000038.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ningen_mame_3-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: JYT": {
+        "model_title": "Artist Style: JYT",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_jyt.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-jyt_1-000030.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-jyt_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: suzume": {
+        "model_title": "Artist Style: suzume",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_fifty_fried_shrimp.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-suzume_1-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-suzume_3-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: DEiEAF": {
+        "model_title": "Artist Style: DEiEAF",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_deieaf.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-deieaf_1-000030.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-deieaf_3-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: HK3": {
+        "model_title": "Artist Style: HK3",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_hk3.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-hk3_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-hk3_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: matchach": {
+        "model_title": "Artist Style: matchach",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_matchach.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-matchach_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-matchach_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-matchach_2-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.2",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-matchach_4-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: QuAn": {
+        "model_title": "Artist Style: QuAn",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_quan.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-quan_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-quan_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-quan_3-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 藤ちょこ": {
+        "model_title": "Artist Style: 藤ちょこ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_fuzichoco.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-fuzichoco_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-fuzichoco_2-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-fuzichoco_4-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: torino": {
+        "model_title": "Artist Style: torino",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_torino.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-torino_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-torino_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-torino_3-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: ねぎまぷりん": {
+        "model_title": "Artist Style: ねぎまぷりん",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_negimapurinn.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-negimapurinn_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-negimapurinn_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: anon": {
+        "model_title": "Artist Style: anon",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_anon.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-anon_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-anon_1.safetensors"
+            }
+        ]
+    },
+    "Style: Honkai: Star Rail Official Expression": {
+        "model_title": "Style: Honkai: Star Rail Official Expression",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/style_honkai_star_rail_expression.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-honkai_star_rail_expression_2-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-honkai_star_rail_expression_2-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: LanuBis": {
+        "model_title": "Artist Style: LanuBis",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_lanubis.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-lanubis_2-000034.safetensors"
+            },
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-lanubis_4-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-lanubis_2-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-lanubis_4.safetensors"
+            }
+        ]
+    },
+    "Artist Style: wanke": {
+        "model_title": "Artist Style: wanke",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_wanke.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-wanke_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-wanke_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: ixy": {
+        "model_title": "Artist Style: ixy",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_ixy.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-ixy_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ixy_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 萩森じあ": {
+        "model_title": "Artist Style: 萩森じあ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_jirujiaru826.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-jirujiaru826_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-jirujiaru826_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-jirujiaru826_3-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: スコッティ": {
+        "model_title": "Artist Style: スコッティ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_sco_ttie.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-Sco_ttie_1-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Sco_ttie_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 不熬夜乐": {
+        "model_title": "Artist Style: 不熬夜乐",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_lplpsg.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-lplpsg_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-lplpsg_1-000036.safetensors"
+            }
+        ]
+    },
+    "Character: murasame senren": {
+        "model_title": "Character: murasame senren",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/character_murasame_senren.png",
+        "trigger_words": "murasame \\(senren\\)",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/character/ag31-murasame_(senren)_10-000036.safetensors"
+            },
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/character/ag31-murasame_(senren)_12-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: みわべさくら": {
+        "model_title": "Artist Style: みわべさくら",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_sakurapion.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-sakurapion_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-sakurapion_1-000036.safetensors"
+            }
+        ]
+    },
+    "Style: pvc": {
+        "model_title": "Style: pvc",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/style_pvc.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-pvc_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-pvc_1-000038.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-pvc_2-000030.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.2",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-pvc_4-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: Guo Jiang Mullay": {
+        "model_title": "Artist Style: Guo Jiang Mullay",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_guo_jiang_mullay.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-guo_jiang_mullay_2-000024.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-guo_jiang_mullay_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: wlop": {
+        "model_title": "Artist Style: wlop",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_wlop.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-wlop_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-wlop_2-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: ころんびぁ": {
+        "model_title": "Artist Style: ころんびぁ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_color_br.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-Colon_BR_1-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Colon_BR_1-000032.safetensors"
+            }
+        ]
+    },
+    "Artist Style: DaylightAllure": {
+        "model_title": "Artist Style: DaylightAllure",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_daylightallure.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-DaylightAllure_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-DaylightAllure_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 香川悠作": {
+        "model_title": "Artist Style: 香川悠作",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_kagawayusaku.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-kagawayusaku_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-kagawayusaku_1-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-kagawayusaku_3-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 荻pote": {
+        "model_title": "Artist Style: 荻pote",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_ogipote.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-ogipote_1-000034.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ogipote_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ogipote_3-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: しらたま❄": {
+        "model_title": "Artist Style: しらたま❄",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_shiratama_shiratamaco.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-shiratama_shiratamaco_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-shiratama_shiratamaco_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-10-shiratama_shiratamaco_3-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 米山舞": {
+        "model_title": "Artist Style: 米山舞",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_yoneyama_mai.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-yoneyama_mai_1-000026.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-yoneyama_mai_1-000036.safetensors"
+            }
+        ]
+    },
+    "Style: Genshin CG Flat Color": {
+        "model_title": "Style: Genshin CG Flat Color",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/style_genshin_cg_flat_color.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ag31-genshin_cg_flat_color_style_1-000038.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-genshin_cg_flat_color_style_1-000036.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-genshin_cg_flat_color_style_2-000030.safetensors"
+            }
+        ]
+    },
+    "Character: aaaki": {
+        "model_title": "Character: aaaki",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/character_aaaki.png",
+        "trigger_words": "aaaki",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/character/ill-xl-01-aaaki_6-000032.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 葉鶏(ばとり)": {
+        "model_title": "Artist Style: 葉鶏(ばとり)",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_batory_ken.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Batory_ken_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: かなめなか": {
+        "model_title": "Artist Style: かなめなか",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_nakkar7.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Nakkar7_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Nakkar7_3-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: シロ9じら": {
+        "model_title": "Artist Style: シロ9じら",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_siro90414.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-siro90414_1-000032.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-siro90414_3-000037.safetensors"
+            }
+        ]
+    },
+    "Artist Style: SunFish": {
+        "model_title": "Artist Style: SunFish",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_sunfish.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-sunfish_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: Anmi": {
+        "model_title": "Artist Style: Anmi",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_anmi.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Anmi_1-000030.safetensors"
+            }
+        ]
+    },
+    "Artist Style: はくあ": {
+        "model_title": "Artist Style: はくあ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_hakua_aa.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-hakua_aa_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: WERI": {
+        "model_title": "Artist Style: WERI",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_weri.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-WERI_1.safetensors"
+            }
+        ]
+    },
+    "Artist Style: HARURI": {
+        "model_title": "Artist Style: HARURI",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_haruri.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-HARURI_1-000032.safetensors"
+            }
+        ]
+    },
+    "Artist Style: まふゆ": {
+        "model_title": "Artist Style: まふゆ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_mmafu.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-mmafu_1-000030.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 神代ぴよ": {
+        "model_title": "Artist Style: 神代ぴよ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_kamishiro_piyo.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-kamishiro_piyo_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: ほし": {
+        "model_title": "Artist Style: ほし",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_hoshi_snacherubi.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-hoshi_snacherubi_1-000030.safetensors"
+            }
+        ]
+    },
+    "Artist Style: Ssziyu鱼": {
+        "model_title": "Artist Style: Ssziyu鱼",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_shanshanziyu.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-shanshanziyu_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 鬼针草": {
+        "model_title": "Artist Style: 鬼针草",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_chen_bin.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-chen_bin_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 適当緑": {
+        "model_title": "Artist Style: 適当緑",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_tekito_midori.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-tekito_midori_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: alllisso": {
+        "model_title": "Artist Style: alllisso",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_alllisso.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-alllisso_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: Klaius": {
+        "model_title": "Artist Style: Klaius",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_klaius.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Klaius_1-000030.safetensors"
+            }
+        ]
+    },
+    "Artist Style: MaidCode1023": {
+        "model_title": "Artist Style: MaidCode1023",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_maidcode1023.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-MaidCode1023_2-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: fufumi": {
+        "model_title": "Artist Style: fufumi",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_fufumi.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-fufumi_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: BLACKmeow": {
+        "model_title": "Artist Style: BLACKmeow",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_blackmeow.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-BLACKmeow_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 秋麒麟热茶": {
+        "model_title": "Artist Style: 秋麒麟热茶",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_akiteamix.png",
+        "trigger_words": "animalization",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-AkiTeaMix_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: ZUU": {
+        "model_title": "Artist Style: ZUU",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_zuu.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ZUU_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 星桃": {
+        "model_title": "Artist Style: 星桃",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_star_peach.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-star_peach_1-000030.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 春日いづれ": {
+        "model_title": "Artist Style: 春日いづれ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_kasuga_haruhi.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-kasuga_haruhi_1.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 谜溶MELT": {
+        "model_title": "Artist Style: 谜溶MELT",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_MELT0209.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-MELT0209_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 煮込らしか": {
+        "model_title": "Artist Style: 煮込らしか",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_rasra25.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-rasra25_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 流朔": {
+        "model_title": "Artist Style: 流朔",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_flowingcrescent.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-flowingcrescent_1-000035.safetensors"
+            }
+        ]
+    },
+    "Artist Style: wacca": {
+        "model_title": "Artist Style: wacca",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_wacca005.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-wacca005_1-000034.safetensors"
+            }
+        ]
+    },
+    "Style: Yuzusoft CG Style": {
+        "model_title": "Style: Yuzusoft CG Style",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/style_yuzusoft_cg_style.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-yuzusoft_official_style_1-000036.safetensors"
+            }
+        ]
+    },
+    "Style: Yuzusoft CG Chibi Style": {
+        "model_title": "Style: Yuzusoft CG Chibi Style",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/style_yuzusoft_cg_chibi_style.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-yuzusoft_official_style_chibi_1-000034.safetensors"
+            }
+        ]
+    },
+    "Character: 松坂さとう & 神戸あさひ": {
+        "model_title": "Character: 松坂さとう & 神戸あさひ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/character_satou_and_shio.png",
+        "trigger_words": "松坂さとう：matsuzaka satou,happy sugar life,pink hair,long hair,double bun,hair bun,hair ornament,red bow,red bowtie,pink eyes,hair between eyes,light blush,school uniform,white shirt,blue jacket,collared shirt,long sleeves,pleated skirt,green skirt,shoes,black socks,\n\n神戸あさひ：koube shio,happy sugar life,medium hair,blue hair,short twintails,blue eyes,light blush,blue bow,blue bowtie,blue shirt,plaid clothes,striped clothes,sleeves past wrists,white sailor collar,long sleeves,striped bowtie,striped bow,blue skirt,plaid skirt,black socks,",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/character/ill-xl-01-satou_and_shio_2-000037.safetensors"
+            }
+        ]
+    },
+    "Artist Style: shuna": {
+        "model_title": "Artist Style: shuna",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_shuna.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-shuna_1-000035.safetensors"
+            }
+        ]
+    },
+    "Artist Style: ぴろ瀬": {
+        "model_title": "Artist Style: ぴろ瀬",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_heripiro.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-heripiro_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: ちょん＊🕊": {
+        "model_title": "Artist Style: ちょん＊🕊",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_chon_(chon33v).png",
+        "trigger_words": "可选: + +,sparkling eyes,",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-chon_(chon33v)_1-000037.safetensors"
+            }
+        ]
+    },
+    "Artist Style: うろつき": {
+        "model_title": "Artist Style: うろつき",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_ku9625.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ku9625_1-000031.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 葉团团": {
+        "model_title": "Artist Style: 葉团团",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_yetuantuan.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-yetuantuan_1-000033.safetensors"
+            }
+        ]
+    },
+    "Character: licyk & kymi": {
+        "model_title": "Character: licyk & kymi",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/character_licyk_and_kymi.png",
+        "trigger_words": "licyk：licyk,cherry blossoms,hair flower,pink flower,hair ribbon,cat ears,animal ear fluff,grey hair,pink inner hair,short hair,bangs,blue eyes,hair between eyes,eyebrows visible through hair,blush,white shirt,white sailor collar,serafuku,red bow,pink cardigan,very long sleeves,red bowtie,pleated skirt,light blue skirt,flat chest,white thighhighs,\n\nkymi：kymi,silver hair,blue hair,medium hair,ahoge,sidelocks,side ponytail,blue scrunchie,gradient hair,light-transmitting hair,purple eyes,white shirt,collared shirt,blue bowtie,open jacket,black jacket,blue skirt,pleated skirt,shirt tucked in,black pantyhose,",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/character/ill-xl-01-licyk_and_kymi_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: Neve_AI": {
+        "model_title": "Artist Style: Neve_AI",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_neve_ai.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Neve_AI_1-000037.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Neve_AI_2-000037.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 水星すい☪︎＊": {
+        "model_title": "Artist Style: 水星すい☪︎＊",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_suisei_1121.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-suisei_1121_2-000037.safetensors"
+            }
+        ]
+    },
+    "Artist Style: ツユハ": {
+        "model_title": "Artist Style: ツユハ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_ringouulu.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ringouulu_1-000037.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 九十三ビス": {
+        "model_title": "Artist Style: 九十三ビス",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_tsukumi_bis.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-tsukumi_bis_1-000039.safetensors"
+            }
+        ]
+    },
+    "Artist Style: アイスス": {
+        "model_title": "Artist Style: アイスス",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_hyou.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-hyou_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: どうどう-榛小豆": {
+        "model_title": "Artist Style: どうどう-榛小豆",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_peas0125.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-peas0125_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: あらめ": {
+        "model_title": "Artist Style: あらめ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_aramedraw.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-aramedraw_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 佐倉おりこ": {
+        "model_title": "Artist Style: 佐倉おりこ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_sakura_oriko.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-sakura_oriko_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 翼": {
+        "model_title": "Artist Style: 翼",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_tsubasa_tsubasa.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-tsubasa_tsubasa_1-000035.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 霜焼❄️": {
+        "model_title": "Artist Style: 霜焼❄️",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_shimoyake_yuki.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-shimoyake_yuki_1-000037.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 海浪松饼": {
+        "model_title": "Artist Style: 海浪松饼",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_ciloranko.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ciloranko_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: E20": {
+        "model_title": "Artist Style: E20",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_e20_loop.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-e20_loop_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 森神@日曜南": {
+        "model_title": "Artist Style: 森神@日曜南",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_morigamix.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-morigamix_1-000035.safetensors"
+            }
+        ]
+    },
+    "Artist Style: もる໒꒱": {
+        "model_title": "Artist Style: もる໒꒱",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_morumoru_x.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-morumoru_x_1-000038.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-morumoru_x_2-000033.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.2",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-morumoru_x_3-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: ユイザキカズヤ": {
+        "model_title": "Artist Style: ユイザキカズヤ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_k_yuizaki.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-k_yuizaki_1-000035.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 悠tacC": {
+        "model_title": "Artist Style: 悠tacC",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_yottacc.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-yottacc_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: HARURI (Previous)": {
+        "model_title": "Artist Style: HARURI (Previous)",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_haruri_previous.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-haruri_previous_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: ひな瀬⭐": {
+        "model_title": "Artist Style: ひな瀬⭐",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_hinase.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-hinase_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: KEli": {
+        "model_title": "Artist Style: KEli",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_KEli.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-KEli_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: Miaoneko": {
+        "model_title": "Artist Style: Miaoneko",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_miaoneko.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Miaoneko_1-000038.safetensors"
+            }
+        ]
+    },
+    "Concept: female pov": {
+        "model_title": "Concept: female pov",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/concept_female_pov.png",
+        "trigger_words": "female pov",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/motion/ill-xl-01-female_pov_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 小叶子Miv": {
+        "model_title": "Artist Style: 小叶子Miv",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_ohako_miyu.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ohako_miyu_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: Ashima": {
+        "model_title": "Artist Style: Ashima",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_Ashima.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Ashima_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 令时焥夏KiriAINa": {
+        "model_title": "Artist Style: 令时焥夏KiriAINa",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_KiriAINa.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-KiriAINa_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: にもし": {
+        "model_title": "Artist Style: にもし",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_ibara_riato.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ibara_riato_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 青葉もち": {
+        "model_title": "Artist Style: 青葉もち",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_AlicitruSalt.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-AlicitruSalt_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 夜明萤": {
+        "model_title": "Artist Style: 夜明萤",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_Nightfire_Fly.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Nightfire_Fly_1-000036.safetensors"
+            }
+        ]
+    },
+    "Artist Style: cyano": {
+        "model_title": "Artist Style: cyano",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_cyano.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-cyano_1-000037.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 葉佐乃": {
+        "model_title": "Artist Style: 葉佐乃",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_kazutake_hazano.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-kazutake_hazano_1-000035.safetensors"
+            }
+        ]
+    },
+    "Artist Style: なきょ": {
+        "model_title": "Artist Style: なきょ",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_na_kyo.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-na_kyo_1-000034.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 🍧": {
+        "model_title": "Artist Style: 🍧",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_anninufufu.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-anninufufu_1-000036.safetensors"
+            }
+        ]
+    },
+    "Character: 超时空辉耀姬!": {
+        "model_title": "Character: 超时空辉耀姬!",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/character_cho_kaguya-hime.png",
+        "trigger_words": "辉耀: 1girl,cho kaguya-hime!,kaguya \\(cho kaguya-hime!\\),brown hair,very long hair,low-tied long hair,hair ornament,crescent hair ornament,animal ears,lop rabbit ears,floppy ears,orange eyes,red eyeshadow,makeup,bare shoulders,two-sided sleeves,japanese clothes,red kimono,obi,red ribbon,sash,tassel\n\n月见八千代: 1girl,cho kaguya-hime!,runami yachiyo,fushi \\(cho kaguya-hime!\\),grey hair,pink hair,very long hair,twintails,hair ornament,hair stick,hair rings,blue eyes,gradient eyes,multicolored eyes,bare shoulders,japanese clothes,purple kimono,octopus,long sleeves,wide sleeves\n\n酒寄彩叶: 1girl,cho kaguya-hime!,sakayori iroha,purple hair,short hair,parted bangs,fox ears,animal ear fluff,green eyes,animal ears,forehead jewel,makeup,red eyeshadow,black choker,japanese clothes,long sleeves,blue hoodie,hood down,fox tail\n\n驹泽乃依: 1boy,cho kaguya-hime!,komazawa noi,crossdressing,black hair,long hair,twintails,multicolored hair,streaked hair,blunt bangs,animal ears,animal ear fluff,tiger ears,horns,pink eyes,backpack,pink bag,bracelet,jewelry,trap,japanese clothes,pink kimono,frilled kimono,pink ribbon,frilled apron,white apron,waist apron,frilled sleeves,wide sleeves,long sleeves,frills,tiger tail",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/character/ill-xl-01-cho_kaguya-hime_1-000039.safetensors"
+            },
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.1",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/character/ill-xl-01-cho_kaguya-hime_2-000039.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 芸草冰": {
+        "model_title": "Artist Style: 芸草冰",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_yun_cao_bing.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-yun_cao_bing_1-000038.safetensors"
+            }
+        ]
+    },
+    "Artist Style: 飞机云君": {
+        "model_title": "Artist Style: 飞机云君",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_cloudyman.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-cloudyman_1-000037.safetensors"
+            }
+        ]
+    },
+    "Artists All In One For Animagine XL 3.1": {
+        "model_title": "Artists All In One For Animagine XL 3.1",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/ag31_artist_all_in_one.png",
+        "trigger_words": "style blue archive official,\nstyle deieaf,\nstyle deyui,\nstyle fruitsrabbit,\nstyle fuzichoco,\nstyle gomalio y,\nstyle hk3,\nstyle ikari,\nstyle jyt,\nstyle KonYa666,\nstyle linhai,\nstyle matchach,\nstyle momoimon,\nstyle nachoneko,\nstyle negimapurinn,\nstyle ningen mame,\nstyle nocopyrightgirl,\nstyle Noyu,\nstyle qian qian jie,\nstyle quan,\nstyle Renren,\nstyle sei umehara,\nstyle sheya,\nstyle torino,\nstyle tyomimas,\nstyle viclim monou,\nstyle void,\nstyle yeurei,\nstyle Yunouou10,\nstyle AL17460600,\nstyle asagi,\nstyle ekureea,\nstyle rafa,\nstyle rurudo,\nstyle yume335,\nstyle a20,",
+        "versions_info": [
+            {
+                "model_name": "Animagine XL 3.1",
+                "model_link": "https://civitai.com/models/260267?modelVersionId=403131",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/artist_all_in_one_2-000036.safetensors"
+            }
+        ]
+    },
+    "Artists All In One For NovelAI 1": {
+        "model_title": "Artists All In One For NovelAI 1",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/novelai1_artist_all_in_one.png",
+        "trigger_words": "nachoneko,\nrurudo,\ndeyui,\ntyomimas,\nlinhai,\nviclim monou,\nyeurei,\nasagi0398,\nnoyu,\ngomalio y,\nqianqianjie,\nsheya,\nblue archive official,\nsei umehara,\nrafa,\nyume335,\nyunouou10,\nrenren,\nal17460600,\nfruitsrabbit,\nvoid0,\nekureea,\nnocopyrightgirl,\nkonya666,\nmomoimon,\na20,\nikari,\nningen mame,\njyt,\nsuzume,\ndeieaf,\nhk3,\nmatchach,\nquan,\nfuzichoco,\ntorino,\nnegimapurinn,\nanon,\nhonkai star rail expression,\nlanubis,\nwanke,\nixy,\njirujiaru826,\nsco ttie,\nlplpsg,\nsakurapion,\nguo jiang mullay,\ncolon br,\ndaylightallure,\nkagawayusaku,\nogipote,\nshiratama shiratamaco,\nyoneyama mai,\ngenshin cg flat color style,\nbatory ken,\nsiro90414,\nsunfish,\nanmi,\nhakua aa,\nweri",
+        "versions_info": [
+            {
+                "model_name": "NovelAI 1",
+                "model_link": "https://huggingface.co/NovelAI/nai-anime-v1-full",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sd_1.5/style/nai1-artist_all_in_one_6-000032.safetensors"
+            }
+        ]
+    }
+}
