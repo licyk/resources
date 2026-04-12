@@ -241,6 +241,8 @@
                 const files = ref([
                     { name: 'lora_list.json', path: './lora_list.json' },
                     { name: 'portable_list.json', path: './portable_list.json' },
+                    { name: 'tag_pp.csv', path: './tag_pp.csv' },
+                    { name: 'tag_pp_zh_new.csv', path: './tag_pp_zh_new.csv' },
                 ]);
 
                 const copied = ref('');
@@ -248,6 +250,7 @@
                 const getIcon = (name) => {
                     if (name.endsWith('.json')) return '📄';
                     if (name.endsWith('.yml')) return '⚙️';
+                    if (name.endsWith('.csv')) return '📋';
                     return '📁';
                 };
 
