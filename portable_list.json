@@ -85,6 +85,18 @@
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/comfyui/comfyui-licyk-20260323-nightly.7z"
                 ]
             ],
+            "ComfyUI (ROCm)": [
+                [
+                    "comfyui_rocm-licyk-20260420-nightly.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/comfyui_rocm/comfyui_rocm-licyk-20260420-nightly.7z"
+                ]
+            ],
+            "ComfyUI (XPU)": [
+                [
+                    "comfyui_xpu-licyk-20260420-nightly.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/comfyui_xpu/comfyui_xpu-licyk-20260420-nightly.7z"
+                ]
+            ],
             "Fooocus": [
                 [
                     "fooocus-licyk-20260420-nightly.7z",
@@ -359,7 +371,7 @@
             ]
         }
     },
-    "update_time": "2026-04-20 06:54:01",
+    "update_time": "2026-04-20 22:12:23",
     "modelscope": {
         "stable": {
             "ComfyUI": [
@@ -536,6 +548,18 @@
                 [
                     "comfyui-licyk-20251208-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui/comfyui-licyk-20251208-nightly.7z"
+                ]
+            ],
+            "ComfyUI (ROCm)": [
+                [
+                    "comfyui_rocm-licyk-20260420-nightly.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui_rocm/comfyui_rocm-licyk-20260420-nightly.7z"
+                ]
+            ],
+            "ComfyUI (XPU)": [
+                [
+                    "comfyui_xpu-licyk-20260420-nightly.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui_xpu/comfyui_xpu-licyk-20260420-nightly.7z"
                 ]
             ],
             "Fooocus": [
