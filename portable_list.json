@@ -229,10 +229,6 @@
                 [
                     "qwen_tts_webui-licyk-20260413-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/qwen_tts_webui/qwen_tts_webui-licyk-20260413-nightly.7z"
-                ],
-                [
-                    "qwen_tts_webui-licyk-20260407-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/qwen_tts_webui/qwen_tts_webui-licyk-20260407-nightly.7z"
                 ]
             ],
             "SD Next": [
@@ -391,7 +387,7 @@
             ]
         }
     },
-    "update_time": "2026-05-07 07:03:58",
+    "update_time": "2026-05-08 07:09:57",
     "modelscope": {
         "stable": {
             "ComfyUI": [
