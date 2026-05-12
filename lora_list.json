@@ -2243,6 +2243,19 @@
             }
         ]
     },
+    "Artist Style: ゆるん": {
+        "model_title": "Artist Style: ゆるん",
+        "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/artist_style_yurun_ume.png",
+        "trigger_words": "无",
+        "versions_info": [
+            {
+                "model_name": "Illustrious XL 0.1",
+                "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-yurun_ume_1-000038.safetensors"
+            }
+        ]
+    },
     "Character: 超时空辉耀姬!": {
         "model_title": "Character: 超时空辉耀姬!",
         "preview_img_url": "https://licyk.netlify.app/img/my_sd_model_list/character_cho_kaguya-hime.png",
