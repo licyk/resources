@@ -131,6 +131,10 @@
             ],
             "Fooocus": [
                 [
+                    "fooocus-licyk-20260514-nightly.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/fooocus/fooocus-licyk-20260514-nightly.7z"
+                ],
+                [
                     "fooocus-licyk-20260511-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/fooocus/fooocus-licyk-20260511-nightly.7z"
                 ],
@@ -395,7 +399,7 @@
             ]
         }
     },
-    "update_time": "2026-05-14 07:19:03",
+    "update_time": "2026-05-15 07:09:56",
     "modelscope": {
         "stable": {
             "ComfyUI": [
@@ -635,6 +639,10 @@
                 ]
             ],
             "Fooocus": [
+                [
+                    "fooocus-licyk-20260514-nightly.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/fooocus/fooocus-licyk-20260514-nightly.7z"
+                ],
                 [
                     "fooocus-licyk-20260511-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/fooocus/fooocus-licyk-20260511-nightly.7z"
