@@ -3,62 +3,62 @@
         "stable": {
             "ComfyUI": [
                 [
-                    "comfyui-licyk-v2.3.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/comfyui/comfyui-licyk-v2.3.7z"
+                    "comfyui-licyk-v2.4.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/comfyui/comfyui-licyk-v2.4.7z"
                 ]
             ],
             "Fooocus": [
                 [
-                    "fooocus-licyk-v2.3.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/fooocus/fooocus-licyk-v2.3.7z"
+                    "fooocus-licyk-v2.4.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/fooocus/fooocus-licyk-v2.4.7z"
                 ]
             ],
             "InvokeAI": [
                 [
-                    "invokeai-licyk-v2.0.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/invokeai/invokeai-licyk-v2.0.7z"
+                    "invokeai-licyk-v2.1.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/invokeai/invokeai-licyk-v2.1.7z"
                 ]
             ],
             "Kohya GUI": [
                 [
-                    "kohya_gui-licyk-v2.2.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/kohya_gui/kohya_gui-licyk-v2.2.7z"
+                    "kohya_gui-licyk-v2.3.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/kohya_gui/kohya_gui-licyk-v2.3.7z"
                 ]
             ],
             "SD Next": [
                 [
-                    "sd_next-licyk-v2.3.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/sd_next/sd_next-licyk-v2.3.7z"
+                    "sd_next-licyk-v2.4.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/sd_next/sd_next-licyk-v2.4.7z"
                 ]
             ],
             "SD Trainer": [
                 [
-                    "sd_trainer-licyk-v2.3.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/sd_trainer/sd_trainer-licyk-v2.3.7z"
+                    "sd_trainer-licyk-v2.4.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/sd_trainer/sd_trainer-licyk-v2.4.7z"
                 ]
             ],
             "Stable Diffusion WebUI": [
                 [
-                    "sd_webui-licyk-v2.3.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/sd_webui/sd_webui-licyk-v2.3.7z"
+                    "sd_webui-licyk-v2.4.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/sd_webui/sd_webui-licyk-v2.4.7z"
                 ]
             ],
             "Stable Diffusion WebUI Forge": [
                 [
-                    "sd_webui_forge-licyk-v2.3.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/sd_webui_forge/sd_webui_forge-licyk-v2.3.7z"
+                    "sd_webui_forge-licyk-v2.4.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/sd_webui_forge/sd_webui_forge-licyk-v2.4.7z"
                 ]
             ],
             "Stable Diffusion WebUI Forge Classic": [
                 [
-                    "sd_webui_forge_classic-licyk-v2.3.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/sd_webui_forge_classic/sd_webui_forge_classic-licyk-v2.3.7z"
+                    "sd_webui_forge_classic-licyk-v2.4.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/sd_webui_forge_classic/sd_webui_forge_classic-licyk-v2.4.7z"
                 ]
             ],
             "Stable Diffusion WebUI reForge": [
                 [
-                    "sd_webui_reforge-licyk-v2.3.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/sd_webui_reforge/sd_webui_reforge-licyk-v2.3.7z"
+                    "sd_webui_reforge-licyk-v2.4.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/stable/sd_webui_reforge/sd_webui_reforge-licyk-v2.4.7z"
                 ]
             ]
         },
@@ -519,67 +519,67 @@
             ]
         }
     },
-    "update_time": "2026-05-18 07:08:57",
+    "update_time": "2026-05-18 11:51:34",
     "modelscope": {
         "stable": {
             "ComfyUI": [
                 [
-                    "comfyui-licyk-v2.3.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/comfyui/comfyui-licyk-v2.3.7z"
+                    "comfyui-licyk-v2.4.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/comfyui/comfyui-licyk-v2.4.7z"
                 ]
             ],
             "Fooocus": [
                 [
-                    "fooocus-licyk-v2.3.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/fooocus/fooocus-licyk-v2.3.7z"
+                    "fooocus-licyk-v2.4.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/fooocus/fooocus-licyk-v2.4.7z"
                 ]
             ],
             "InvokeAI": [
                 [
-                    "invokeai-licyk-v2.0.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/invokeai/invokeai-licyk-v2.0.7z"
+                    "invokeai-licyk-v2.1.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/invokeai/invokeai-licyk-v2.1.7z"
                 ]
             ],
             "Kohya GUI": [
                 [
-                    "kohya_gui-licyk-v2.2.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/kohya_gui/kohya_gui-licyk-v2.2.7z"
+                    "kohya_gui-licyk-v2.3.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/kohya_gui/kohya_gui-licyk-v2.3.7z"
                 ]
             ],
             "SD Next": [
                 [
-                    "sd_next-licyk-v2.3.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/sd_next/sd_next-licyk-v2.3.7z"
+                    "sd_next-licyk-v2.4.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/sd_next/sd_next-licyk-v2.4.7z"
                 ]
             ],
             "SD Trainer": [
                 [
-                    "sd_trainer-licyk-v2.3.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/sd_trainer/sd_trainer-licyk-v2.3.7z"
+                    "sd_trainer-licyk-v2.4.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/sd_trainer/sd_trainer-licyk-v2.4.7z"
                 ]
             ],
             "Stable Diffusion WebUI": [
                 [
-                    "sd_webui-licyk-v2.3.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/sd_webui/sd_webui-licyk-v2.3.7z"
+                    "sd_webui-licyk-v2.4.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/sd_webui/sd_webui-licyk-v2.4.7z"
                 ]
             ],
             "Stable Diffusion WebUI Forge": [
                 [
-                    "sd_webui_forge-licyk-v2.3.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/sd_webui_forge/sd_webui_forge-licyk-v2.3.7z"
+                    "sd_webui_forge-licyk-v2.4.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/sd_webui_forge/sd_webui_forge-licyk-v2.4.7z"
                 ]
             ],
             "Stable Diffusion WebUI Forge Classic": [
                 [
-                    "sd_webui_forge_classic-licyk-v2.3.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/sd_webui_forge_classic/sd_webui_forge_classic-licyk-v2.3.7z"
+                    "sd_webui_forge_classic-licyk-v2.4.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/sd_webui_forge_classic/sd_webui_forge_classic-licyk-v2.4.7z"
                 ]
             ],
             "Stable Diffusion WebUI reForge": [
                 [
-                    "sd_webui_reforge-licyk-v2.3.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/sd_webui_reforge/sd_webui_reforge-licyk-v2.3.7z"
+                    "sd_webui_reforge-licyk-v2.4.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/stable/sd_webui_reforge/sd_webui_reforge-licyk-v2.4.7z"
                 ]
             ]
         },
