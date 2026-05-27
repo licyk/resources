@@ -65,10 +65,6 @@
                 [
                     "comfyui-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/comfyui/comfyui-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "comfyui-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/comfyui/comfyui-licyk-20260427-nightly.7z"
                 ]
             ],
             "ComfyUI (ROCm)": [
@@ -103,10 +99,6 @@
                 [
                     "comfyui_rocm-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/comfyui_rocm/comfyui_rocm-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "comfyui_rocm-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/comfyui_rocm/comfyui_rocm-licyk-20260427-nightly.7z"
                 ]
             ],
             "ComfyUI (XPU)": [
@@ -141,10 +133,6 @@
                 [
                     "comfyui_xpu-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/comfyui_xpu/comfyui_xpu-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "comfyui_xpu-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/comfyui_xpu/comfyui_xpu-licyk-20260427-nightly.7z"
                 ]
             ],
             "Fooocus": [
@@ -183,10 +171,6 @@
                 [
                     "fooocus-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/fooocus/fooocus-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "fooocus-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/fooocus/fooocus-licyk-20260427-nightly.7z"
                 ]
             ],
             "InvokeAI": [
@@ -221,10 +205,6 @@
                 [
                     "invokeai-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/invokeai/invokeai-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "invokeai-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/invokeai/invokeai-licyk-20260427-nightly.7z"
                 ]
             ],
             "Kohya GUI": [
@@ -259,10 +239,6 @@
                 [
                     "kohya_gui-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/kohya_gui/kohya_gui-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "kohya_gui-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/kohya_gui/kohya_gui-licyk-20260427-nightly.7z"
                 ]
             ],
             "Musubi Tuner": [
@@ -297,10 +273,6 @@
                 [
                     "musubi_tuner-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/musubi_tuner/musubi_tuner-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "musubi_tuner-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/musubi_tuner/musubi_tuner-licyk-20260427-nightly.7z"
                 ]
             ],
             "Qwen TTS WebUI": [
@@ -335,10 +307,6 @@
                 [
                     "qwen_tts_webui-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/qwen_tts_webui/qwen_tts_webui-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "qwen_tts_webui-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/qwen_tts_webui/qwen_tts_webui-licyk-20260427-nightly.7z"
                 ]
             ],
             "SD Next": [
@@ -373,10 +341,6 @@
                 [
                     "sd_next-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_next/sd_next-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_next-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_next/sd_next-licyk-20260427-nightly.7z"
                 ]
             ],
             "SD Scripts": [
@@ -411,10 +375,6 @@
                 [
                     "sd_scripts-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_scripts/sd_scripts-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_scripts-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_scripts/sd_scripts-licyk-20260427-nightly.7z"
                 ]
             ],
             "SD Trainer": [
@@ -449,10 +409,6 @@
                 [
                     "sd_trainer-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_trainer/sd_trainer-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_trainer-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_trainer/sd_trainer-licyk-20260427-nightly.7z"
                 ]
             ],
             "Stable Diffusion WebUI": [
@@ -491,10 +447,6 @@
                 [
                     "sd_webui-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_webui/sd_webui-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_webui-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_webui/sd_webui-licyk-20260427-nightly.7z"
                 ]
             ],
             "Stable Diffusion WebUI Forge": [
@@ -533,10 +485,6 @@
                 [
                     "sd_webui_forge-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_webui_forge-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260427-nightly.7z"
                 ]
             ],
             "Stable Diffusion WebUI Forge Classic": [
@@ -567,10 +515,6 @@
                 [
                     "sd_webui_forge_classic-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_webui_forge_classic/sd_webui_forge_classic-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_webui_forge_classic-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_webui_forge_classic/sd_webui_forge_classic-licyk-20260427-nightly.7z"
                 ]
             ],
             "Stable Diffusion WebUI Forge Neo": [
@@ -615,15 +559,11 @@
                 [
                     "sd_webui_reforge-licyk-20260504-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_webui_reforge/sd_webui_reforge-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_webui_reforge-licyk-20260427-nightly.7z",
-                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_webui_reforge/sd_webui_reforge-licyk-20260427-nightly.7z"
                 ]
             ]
         }
     },
-    "update_time": "2026-05-27 20:33:16",
+    "update_time": "2026-05-28 07:36:44",
     "modelscope": {
         "stable": {
             "Fooocus": [
@@ -660,6 +600,10 @@
         "nightly": {
             "ComfyUI": [
                 [
+                    "comfyui-licyk-20260527-nightly.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui/comfyui-licyk-20260527-nightly.7z"
+                ],
+                [
                     "comfyui-licyk-20260525-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui/comfyui-licyk-20260525-nightly.7z"
                 ],
@@ -686,10 +630,6 @@
                 [
                     "comfyui-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui/comfyui-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "comfyui-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui/comfyui-licyk-20260427-nightly.7z"
                 ]
             ],
             "ComfyUI (ROCm)": [
@@ -724,10 +664,6 @@
                 [
                     "comfyui_rocm-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui_rocm/comfyui_rocm-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "comfyui_rocm-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui_rocm/comfyui_rocm-licyk-20260427-nightly.7z"
                 ]
             ],
             "ComfyUI (XPU)": [
@@ -762,10 +698,6 @@
                 [
                     "comfyui_xpu-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui_xpu/comfyui_xpu-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "comfyui_xpu-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui_xpu/comfyui_xpu-licyk-20260427-nightly.7z"
                 ]
             ],
             "Fooocus": [
@@ -804,10 +736,6 @@
                 [
                     "fooocus-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/fooocus/fooocus-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "fooocus-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/fooocus/fooocus-licyk-20260427-nightly.7z"
                 ]
             ],
             "InvokeAI": [
@@ -842,10 +770,6 @@
                 [
                     "invokeai-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/invokeai/invokeai-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "invokeai-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/invokeai/invokeai-licyk-20260427-nightly.7z"
                 ]
             ],
             "Kohya GUI": [
@@ -880,10 +804,6 @@
                 [
                     "kohya_gui-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/kohya_gui/kohya_gui-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "kohya_gui-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/kohya_gui/kohya_gui-licyk-20260427-nightly.7z"
                 ]
             ],
             "Musubi Tuner": [
@@ -918,10 +838,6 @@
                 [
                     "musubi_tuner-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/musubi_tuner/musubi_tuner-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "musubi_tuner-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/musubi_tuner/musubi_tuner-licyk-20260427-nightly.7z"
                 ]
             ],
             "Qwen TTS WebUI": [
@@ -956,10 +872,6 @@
                 [
                     "qwen_tts_webui-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/qwen_tts_webui/qwen_tts_webui-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "qwen_tts_webui-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/qwen_tts_webui/qwen_tts_webui-licyk-20260427-nightly.7z"
                 ]
             ],
             "SD Next": [
@@ -994,10 +906,6 @@
                 [
                     "sd_next-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_next/sd_next-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_next-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_next/sd_next-licyk-20260427-nightly.7z"
                 ]
             ],
             "SD Scripts": [
@@ -1032,10 +940,6 @@
                 [
                     "sd_scripts-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_scripts/sd_scripts-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_scripts-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_scripts/sd_scripts-licyk-20260427-nightly.7z"
                 ]
             ],
             "SD Trainer": [
@@ -1070,10 +974,6 @@
                 [
                     "sd_trainer-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_trainer/sd_trainer-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_trainer-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_trainer/sd_trainer-licyk-20260427-nightly.7z"
                 ]
             ],
             "Stable Diffusion WebUI": [
@@ -1112,10 +1012,6 @@
                 [
                     "sd_webui-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_webui/sd_webui-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_webui-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_webui/sd_webui-licyk-20260427-nightly.7z"
                 ]
             ],
             "Stable Diffusion WebUI Forge": [
@@ -1154,10 +1050,6 @@
                 [
                     "sd_webui_forge-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_webui_forge-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260427-nightly.7z"
                 ]
             ],
             "Stable Diffusion WebUI Forge Classic": [
@@ -1188,10 +1080,6 @@
                 [
                     "sd_webui_forge_classic-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_webui_forge_classic/sd_webui_forge_classic-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_webui_forge_classic-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_webui_forge_classic/sd_webui_forge_classic-licyk-20260427-nightly.7z"
                 ]
             ],
             "Stable Diffusion WebUI Forge Neo": [
@@ -1236,10 +1124,6 @@
                 [
                     "sd_webui_reforge-licyk-20260504-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_webui_reforge/sd_webui_reforge-licyk-20260504-nightly.7z"
-                ],
-                [
-                    "sd_webui_reforge-licyk-20260427-nightly.7z",
-                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_webui_reforge/sd_webui_reforge-licyk-20260427-nightly.7z"
                 ]
             ]
         }
