@@ -571,6 +571,10 @@
             ],
             "Stable Diffusion WebUI Forge Neo": [
                 [
+                    "sd_webui_forge_neo-licyk-20260602-nightly.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260602-nightly.7z"
+                ],
+                [
                     "sd_webui_forge_neo-licyk-20260601-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260601-nightly.7z"
                 ],
@@ -623,7 +627,7 @@
             ]
         }
     },
-    "update_time": "2026-06-01 07:15:32",
+    "update_time": "2026-06-02 07:43:33",
     "modelscope": {
         "stable": {
             "Fooocus": [
@@ -1195,6 +1199,10 @@
                 ]
             ],
             "Stable Diffusion WebUI Forge Neo": [
+                [
+                    "sd_webui_forge_neo-licyk-20260602-nightly.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260602-nightly.7z"
+                ],
                 [
                     "sd_webui_forge_neo-licyk-20260601-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260601-nightly.7z"
