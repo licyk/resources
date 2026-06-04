@@ -411,7 +411,7 @@
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_trainer/sd_trainer-licyk-20260505-nightly.7z"
                 ]
             ],
-            "sd_trainer_next": [
+            "SD Trainer Next": [
                 [
                     "sd_trainer_next-licyk-20260603-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_trainer_next/sd_trainer_next-licyk-20260603-nightly.7z"
@@ -573,7 +573,7 @@
             ]
         }
     },
-    "update_time": "2026-06-04 07:57:38",
+    "update_time": "2026-06-04 19:21:45",
     "modelscope": {
         "stable": {
             "Fooocus": [
@@ -986,7 +986,7 @@
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_trainer/sd_trainer-licyk-20260505-nightly.7z"
                 ]
             ],
-            "sd_trainer_next": [
+            "SD Trainer Next": [
                 [
                     "sd_trainer_next-licyk-20260603-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_trainer_next/sd_trainer_next-licyk-20260603-nightly.7z"
