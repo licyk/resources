@@ -9925,6 +9925,32 @@
             ]
         },
         {
+            "repo_id": "licyks/comfyui-model",
+            "repo_type": "model",
+            "files": [
+                [
+                    "configuration.json",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/configuration.json"
+                ],
+                [
+                    "README.md",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/README.md"
+                ],
+                [
+                    "ComfyUI-Marigold/tokenizer/special_tokens_map.json",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/ComfyUI-Marigold/tokenizer/special_tokens_map.json"
+                ],
+                [
+                    "Wan2.1_VACE/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_VACE/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                ],
+                [
+                    "ComfyUI-WD14-Tagger/wd-vit-tagger-v3.onnx",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/ComfyUI-WD14-Tagger/wd-vit-tagger-v3.onnx"
+                ]
+            ]
+        },
+        {
             "repo_id": "licyks/controlnet_v1.1",
             "repo_type": "model",
             "files": [
