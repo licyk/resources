@@ -35,6 +35,10 @@
         "nightly": {
             "ComfyUI": [
                 [
+                    "comfyui-licyk-20260605-nightly.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/comfyui/comfyui-licyk-20260605-nightly.7z"
+                ],
+                [
                     "comfyui-licyk-20260601-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/comfyui/comfyui-licyk-20260601-nightly.7z"
                 ],
@@ -513,7 +517,7 @@
             ]
         }
     },
-    "update_time": "2026-06-05 07:21:45",
+    "update_time": "2026-06-06 07:22:28",
     "modelscope": {
         "stable": {
             "Fooocus": [
@@ -549,6 +553,10 @@
         },
         "nightly": {
             "ComfyUI": [
+                [
+                    "comfyui-licyk-20260605-nightly.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui/comfyui-licyk-20260605-nightly.7z"
+                ],
                 [
                     "comfyui-licyk-20260601-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/comfyui/comfyui-licyk-20260601-nightly.7z"
