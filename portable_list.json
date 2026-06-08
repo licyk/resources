@@ -213,6 +213,10 @@
             ],
             "Kohya GUI": [
                 [
+                    "kohya_gui-licyk-20260609-nightly.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/kohya_gui/kohya_gui-licyk-20260609-nightly.7z"
+                ],
+                [
                     "kohya_gui-licyk-20260601-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/kohya_gui/kohya_gui-licyk-20260601-nightly.7z"
                 ],
@@ -242,6 +246,10 @@
                 ]
             ],
             "Musubi Tuner": [
+                [
+                    "musubi_tuner-licyk-20260609-nightly.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/musubi_tuner/musubi_tuner-licyk-20260609-nightly.7z"
+                ],
                 [
                     "musubi_tuner-licyk-20260601-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/musubi_tuner/musubi_tuner-licyk-20260601-nightly.7z"
@@ -340,6 +348,10 @@
                 ]
             ],
             "SD Scripts": [
+                [
+                    "sd_scripts-licyk-20260609-nightly.7z",
+                    "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_scripts/sd_scripts-licyk-20260609-nightly.7z"
+                ],
                 [
                     "sd_scripts-licyk-20260601-nightly.7z",
                     "https://huggingface.co/licyk/sdnote/resolve/main/portable/nightly/sd_scripts/sd_scripts-licyk-20260601-nightly.7z"
@@ -569,7 +581,7 @@
             ]
         }
     },
-    "update_time": "2026-06-08 07:17:52",
+    "update_time": "2026-06-09 07:22:11",
     "modelscope": {
         "stable": {
             "Fooocus": [
@@ -784,6 +796,10 @@
             ],
             "Kohya GUI": [
                 [
+                    "kohya_gui-licyk-20260609-nightly.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/kohya_gui/kohya_gui-licyk-20260609-nightly.7z"
+                ],
+                [
                     "kohya_gui-licyk-20260601-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/kohya_gui/kohya_gui-licyk-20260601-nightly.7z"
                 ],
@@ -813,6 +829,10 @@
                 ]
             ],
             "Musubi Tuner": [
+                [
+                    "musubi_tuner-licyk-20260609-nightly.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/musubi_tuner/musubi_tuner-licyk-20260609-nightly.7z"
+                ],
                 [
                     "musubi_tuner-licyk-20260601-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/musubi_tuner/musubi_tuner-licyk-20260601-nightly.7z"
@@ -911,6 +931,10 @@
                 ]
             ],
             "SD Scripts": [
+                [
+                    "sd_scripts-licyk-20260609-nightly.7z",
+                    "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_scripts/sd_scripts-licyk-20260609-nightly.7z"
+                ],
                 [
                     "sd_scripts-licyk-20260601-nightly.7z",
                     "https://modelscope.cn/models/licyks/sdnote/resolve/master/portable/nightly/sd_scripts/sd_scripts-licyk-20260601-nightly.7z"
