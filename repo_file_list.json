@@ -13,6 +13,10 @@
                     "https://huggingface.co/licyk/sd-lora/resolve/main/README.md"
                 ],
                 [
+                    "anima/style/anima-v1-cloudyman_2-000032.safetensors",
+                    "https://huggingface.co/licyk/sd-lora/resolve/main/anima/style/anima-v1-cloudyman_2-000032.safetensors"
+                ],
+                [
                     "sd_1.5/character/AkaneV1.2.safetensors",
                     "https://huggingface.co/licyk/sd-lora/resolve/main/sd_1.5/character/AkaneV1.2.safetensors"
                 ],
@@ -6147,6 +6151,10 @@
                     "https://huggingface.co/licyk/lora_for_invokeai/resolve/main/[鍵空とみやき]_ハッピーシュガーライフ_公式ファンブック_恋色ライフログ/135.jpg"
                 ],
                 [
+                    "anima/style/anima-v1-cloudyman_2-000032.safetensors",
+                    "https://huggingface.co/licyk/lora_for_invokeai/resolve/main/anima/style/anima-v1-cloudyman_2-000032.safetensors"
+                ],
+                [
                     "sd_1.5/character/AkaneV1.2.safetensors",
                     "https://huggingface.co/licyk/lora_for_invokeai/resolve/main/sd_1.5/character/AkaneV1.2.safetensors"
                 ],
@@ -7783,6 +7791,10 @@
                     "https://modelscope.cn/models/licyks/sd-lora/resolve/master/sdxl/style/amashiro_natsuki_image341_2024-03-28_a31-000030.safetensors"
                 ],
                 [
+                    "anima/style/anima-v1-cloudyman_2-000032.safetensors",
+                    "https://modelscope.cn/models/licyks/sd-lora/resolve/master/anima/style/anima-v1-cloudyman_2-000032.safetensors"
+                ],
+                [
                     "sdxl/style/AnimagineXLV3_Style_Difference_AnimeFace.safetensors",
                     "https://modelscope.cn/models/licyks/sd-lora/resolve/master/sdxl/style/AnimagineXLV3_Style_Difference_AnimeFace.safetensors"
                 ],
@@ -7859,12 +7871,12 @@
                     "https://modelscope.cn/models/licyks/sd-lora/resolve/master/sdxl/style/chon_(chon33v)_image138_2024-03-28_a31-000045.safetensors"
                 ],
                 [
-                    "sd_1.5/style/ChromaticAberration.safetensors",
-                    "https://modelscope.cn/models/licyks/sd-lora/resolve/master/sd_1.5/style/ChromaticAberration.safetensors"
-                ],
-                [
                     "sd_1.5/character/ChromaticAberration.safetensors",
                     "https://modelscope.cn/models/licyks/sd-lora/resolve/master/sd_1.5/character/ChromaticAberration.safetensors"
+                ],
+                [
+                    "sd_1.5/style/ChromaticAberration.safetensors",
+                    "https://modelscope.cn/models/licyks/sd-lora/resolve/master/sd_1.5/style/ChromaticAberration.safetensors"
                 ],
                 [
                     "sdxl/style/CleanLineArt.safetensors",
