@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-06-20T23:23:03Z",
+  "update_time": "2026-06-21T04:54:27Z",
   "resources": {
     "huggingface": {
       "comfyui": {
-        "display_name": "ComfyUI",
-        "description": "流程高度自定义，可玩性高，显存优化强，支持的模型丰富。",
+        "display_name": "ComfyUI (NVIDIA)",
+        "description": "ComfyUI 的 NVIDIA 显卡整合包，流程高度自定义，可玩性高，显存优化强，支持的模型丰富。",
         "stable": [],
         "nightly": [
           {
@@ -214,8 +214,8 @@
         ]
       },
       "fooocus": {
-        "display_name": "Fooocus",
-        "description": "化繁为简，更专注于提示词书写。",
+        "display_name": "Fooocus (NVIDIA)",
+        "description": "Fooocus 的 NVIDIA 显卡整合包，化繁为简，更专注于提示词书写。",
         "stable": [
           {
             "filename": "fooocus-licyk-v3.0.7z",
@@ -292,8 +292,8 @@
         ]
       },
       "invokeai": {
-        "display_name": "InvokeAI",
-        "description": "拥有最强大的画布系统，更适合作为辅助绘画工具。",
+        "display_name": "InvokeAI (NVIDIA)",
+        "description": "InvokeAI 的 NVIDIA 显卡整合包，拥有最强大的画布系统，更适合作为辅助绘画工具。",
         "stable": [],
         "nightly": [
           {
@@ -359,8 +359,8 @@
         ]
       },
       "kohya_gui": {
-        "display_name": "Kohya GUI",
-        "description": "支持训练更多种类的模型，不过操作麻烦一点。",
+        "display_name": "Kohya GUI (NVIDIA)",
+        "description": "Kohya GUI 的 NVIDIA 显卡整合包，支持训练更多种类的模型，不过操作麻烦一点。",
         "stable": [
           {
             "filename": "kohya_gui-licyk-v2.9.7z",
@@ -437,8 +437,8 @@
         ]
       },
       "musubi_tuner": {
-        "display_name": "Musubi Tuner",
-        "description": "支持训练 Hunyuan，Wan 等视频生成模型。",
+        "display_name": "Musubi Tuner (NVIDIA)",
+        "description": "Musubi Tuner 的 NVIDIA 显卡整合包，支持训练 Hunyuan，Wan 等视频生成模型。",
         "stable": [],
         "nightly": [
           {
@@ -504,8 +504,8 @@
         ]
       },
       "qwen_tts_webui": {
-        "display_name": "Qwen TTS WebUI",
-        "description": "支持使用 Qwen3 TTS 生成语音。",
+        "display_name": "Qwen TTS WebUI (NVIDIA)",
+        "description": "Qwen TTS WebUI 的 NVIDIA 显卡整合包，支持使用 Qwen3 TTS 生成语音。",
         "stable": [],
         "nightly": [
           {
@@ -581,8 +581,8 @@
         ]
       },
       "sd_next": {
-        "display_name": "SD Next",
-        "description": "基于 Stable Diffusion WebUI 开发，支持的模型种类多，就是比较臃肿。",
+        "display_name": "SD Next (NVIDIA)",
+        "description": "SD Next 的 NVIDIA 显卡整合包，基于 Stable Diffusion WebUI 开发，支持的模型种类多，就是比较臃肿。",
         "stable": [],
         "nightly": [
           {
@@ -648,8 +648,8 @@
         ]
       },
       "sd_scripts": {
-        "display_name": "SD Scripts",
-        "description": "支持训练 SD1.5，SDXL，FLUX，ControlNet 等多种模型，并且是 SD-Trainer 和 Kohya GUI 的训练核心，不过操作比较麻烦。",
+        "display_name": "SD Scripts (NVIDIA)",
+        "description": "SD Scripts 的 NVIDIA 显卡整合包，支持训练 SD1.5，SDXL，FLUX，ControlNet 等多种模型，并且是 SD-Trainer 和 Kohya GUI 的训练核心，不过操作比较麻烦。",
         "stable": [],
         "nightly": [
           {
@@ -715,8 +715,8 @@
         ]
       },
       "sd_trainer": {
-        "display_name": "SD Trainer",
-        "description": "训练模型如此简单。",
+        "display_name": "SD Trainer (NVIDIA)",
+        "description": "SD Trainer 的 NVIDIA 显卡整合包，训练模型如此简单。",
         "stable": [
           {
             "filename": "sd_trainer-licyk-v3.0.7z",
@@ -793,8 +793,8 @@
         ]
       },
       "sd_trainer_next": {
-        "display_name": "SD Trainer Next",
-        "description": "训练模型如此简单。基于 SD Trainer 分支，并且新增了 Anima 模型的支持。",
+        "display_name": "SD Trainer Next (NVIDIA)",
+        "description": "SD Trainer Next 的 NVIDIA 显卡整合包，训练模型如此简单。基于 SD Trainer 分支，并且新增了 Anima 模型的支持。",
         "stable": [],
         "nightly": [
           {
@@ -830,8 +830,8 @@
         ]
       },
       "sd_webui": {
-        "display_name": "Stable Diffusion WebUI",
-        "description": "上手简单，操作方便，适合入门使用。",
+        "display_name": "Stable Diffusion WebUI (NVIDIA)",
+        "description": "Stable Diffusion WebUI 的 NVIDIA 显卡整合包，上手简单，操作方便，适合入门使用。",
         "stable": [
           {
             "filename": "sd_webui-licyk-v3.0.7z",
@@ -918,8 +918,8 @@
         ]
       },
       "sd_webui_forge": {
-        "display_name": "Stable Diffusion WebUI Forge",
-        "description": "基于 Stable Diffusion WebUI，有更强的显存优化，多了 FLUX 模型支持。",
+        "display_name": "Stable Diffusion WebUI Forge (NVIDIA)",
+        "description": "Stable Diffusion WebUI Forge 的 NVIDIA 显卡整合包，基于 Stable Diffusion WebUI，有更强的显存优化，多了 FLUX 模型支持。",
         "stable": [
           {
             "filename": "sd_webui_forge-licyk-v3.0.7z",
@@ -1006,8 +1006,8 @@
         ]
       },
       "sd_webui_forge_classic": {
-        "display_name": "Stable Diffusion WebUI Forge Classic",
-        "description": "Stable Diffusion WebUI Forge 的经典版本整合包。",
+        "display_name": "Stable Diffusion WebUI Forge Classic (NVIDIA)",
+        "description": "Stable Diffusion WebUI Forge Classic 的 NVIDIA 显卡整合包，属于 Stable Diffusion WebUI Forge 的经典版本。",
         "stable": [],
         "nightly": [
           {
@@ -1033,8 +1033,8 @@
         ]
       },
       "sd_webui_forge_neo": {
-        "display_name": "Stable Diffusion WebUI Forge Neo",
-        "description": "基于旧版 Stable Diffusion WebUI Forge 开发，精简了无用组件，更轻量。",
+        "display_name": "Stable Diffusion WebUI Forge Neo (NVIDIA)",
+        "description": "Stable Diffusion WebUI Forge Neo 的 NVIDIA 显卡整合包，基于旧版 Stable Diffusion WebUI Forge 开发，精简了无用组件，更轻量。",
         "stable": [],
         "nightly": [
           {
@@ -1099,9 +1099,43 @@
           }
         ]
       },
+      "sd_webui_forge_neo_rocm": {
+        "display_name": "Stable Diffusion WebUI Forge Neo (ROCm)",
+        "description": "Stable Diffusion WebUI Forge Neo 的 AMD 显卡整合包，基于旧版 Stable Diffusion WebUI Forge 开发，精简了无用组件，更轻量。",
+        "stable": [],
+        "nightly": [
+          {
+            "filename": "sd_webui_forge_neo_rocm-licyk-20260621-nightly.7z",
+            "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-20260621-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-20260621-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260621",
+            "extension": "7z"
+          }
+        ]
+      },
+      "sd_webui_forge_neo_xpu": {
+        "display_name": "Stable Diffusion WebUI Forge Neo (XPU)",
+        "description": "Stable Diffusion WebUI Forge Neo 的 Intel 显卡整合包，基于旧版 Stable Diffusion WebUI Forge 开发，精简了无用组件，更轻量。",
+        "stable": [],
+        "nightly": [
+          {
+            "filename": "sd_webui_forge_neo_xpu-licyk-20260621-nightly.7z",
+            "path": "portable/nightly/sd_webui_forge_neo_xpu/sd_webui_forge_neo_xpu-licyk-20260621-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo_xpu/sd_webui_forge_neo_xpu-licyk-20260621-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260621",
+            "extension": "7z"
+          }
+        ]
+      },
       "sd_webui_reforge": {
-        "display_name": "Stable Diffusion WebUI reForge",
-        "description": "基于旧版 Stable Diffusion WebUI Forge 开发，插件兼容性比 Stable Diffusion WebUI Forge 好一点。",
+        "display_name": "Stable Diffusion WebUI reForge (NVIDIA)",
+        "description": "Stable Diffusion WebUI reForge 的 NVIDIA 显卡整合包，基于旧版 Stable Diffusion WebUI Forge 开发，插件兼容性比 Stable Diffusion WebUI Forge 好一点。",
         "stable": [],
         "nightly": [
           {
@@ -1169,8 +1203,8 @@
     },
     "modelscope": {
       "comfyui": {
-        "display_name": "ComfyUI",
-        "description": "流程高度自定义，可玩性高，显存优化强，支持的模型丰富。",
+        "display_name": "ComfyUI (NVIDIA)",
+        "description": "ComfyUI 的 NVIDIA 显卡整合包，流程高度自定义，可玩性高，显存优化强，支持的模型丰富。",
         "stable": [],
         "nightly": [
           {
@@ -1380,8 +1414,8 @@
         ]
       },
       "fooocus": {
-        "display_name": "Fooocus",
-        "description": "化繁为简，更专注于提示词书写。",
+        "display_name": "Fooocus (NVIDIA)",
+        "description": "Fooocus 的 NVIDIA 显卡整合包，化繁为简，更专注于提示词书写。",
         "stable": [
           {
             "filename": "fooocus-licyk-v3.0.7z",
@@ -1458,8 +1492,8 @@
         ]
       },
       "invokeai": {
-        "display_name": "InvokeAI",
-        "description": "拥有最强大的画布系统，更适合作为辅助绘画工具。",
+        "display_name": "InvokeAI (NVIDIA)",
+        "description": "InvokeAI 的 NVIDIA 显卡整合包，拥有最强大的画布系统，更适合作为辅助绘画工具。",
         "stable": [],
         "nightly": [
           {
@@ -1525,8 +1559,8 @@
         ]
       },
       "kohya_gui": {
-        "display_name": "Kohya GUI",
-        "description": "支持训练更多种类的模型，不过操作麻烦一点。",
+        "display_name": "Kohya GUI (NVIDIA)",
+        "description": "Kohya GUI 的 NVIDIA 显卡整合包，支持训练更多种类的模型，不过操作麻烦一点。",
         "stable": [
           {
             "filename": "kohya_gui-licyk-v2.9.7z",
@@ -1603,8 +1637,8 @@
         ]
       },
       "musubi_tuner": {
-        "display_name": "Musubi Tuner",
-        "description": "支持训练 Hunyuan，Wan 等视频生成模型。",
+        "display_name": "Musubi Tuner (NVIDIA)",
+        "description": "Musubi Tuner 的 NVIDIA 显卡整合包，支持训练 Hunyuan，Wan 等视频生成模型。",
         "stable": [],
         "nightly": [
           {
@@ -1670,8 +1704,8 @@
         ]
       },
       "qwen_tts_webui": {
-        "display_name": "Qwen TTS WebUI",
-        "description": "支持使用 Qwen3 TTS 生成语音。",
+        "display_name": "Qwen TTS WebUI (NVIDIA)",
+        "description": "Qwen TTS WebUI 的 NVIDIA 显卡整合包，支持使用 Qwen3 TTS 生成语音。",
         "stable": [],
         "nightly": [
           {
@@ -1747,8 +1781,8 @@
         ]
       },
       "sd_next": {
-        "display_name": "SD Next",
-        "description": "基于 Stable Diffusion WebUI 开发，支持的模型种类多，就是比较臃肿。",
+        "display_name": "SD Next (NVIDIA)",
+        "description": "SD Next 的 NVIDIA 显卡整合包，基于 Stable Diffusion WebUI 开发，支持的模型种类多，就是比较臃肿。",
         "stable": [],
         "nightly": [
           {
@@ -1814,8 +1848,8 @@
         ]
       },
       "sd_scripts": {
-        "display_name": "SD Scripts",
-        "description": "支持训练 SD1.5，SDXL，FLUX，ControlNet 等多种模型，并且是 SD-Trainer 和 Kohya GUI 的训练核心，不过操作比较麻烦。",
+        "display_name": "SD Scripts (NVIDIA)",
+        "description": "SD Scripts 的 NVIDIA 显卡整合包，支持训练 SD1.5，SDXL，FLUX，ControlNet 等多种模型，并且是 SD-Trainer 和 Kohya GUI 的训练核心，不过操作比较麻烦。",
         "stable": [],
         "nightly": [
           {
@@ -1881,8 +1915,8 @@
         ]
       },
       "sd_trainer": {
-        "display_name": "SD Trainer",
-        "description": "训练模型如此简单。",
+        "display_name": "SD Trainer (NVIDIA)",
+        "description": "SD Trainer 的 NVIDIA 显卡整合包，训练模型如此简单。",
         "stable": [
           {
             "filename": "sd_trainer-licyk-v3.0.7z",
@@ -1959,8 +1993,8 @@
         ]
       },
       "sd_trainer_next": {
-        "display_name": "SD Trainer Next",
-        "description": "训练模型如此简单。基于 SD Trainer 分支，并且新增了 Anima 模型的支持。",
+        "display_name": "SD Trainer Next (NVIDIA)",
+        "description": "SD Trainer Next 的 NVIDIA 显卡整合包，训练模型如此简单。基于 SD Trainer 分支，并且新增了 Anima 模型的支持。",
         "stable": [],
         "nightly": [
           {
@@ -1996,8 +2030,8 @@
         ]
       },
       "sd_webui": {
-        "display_name": "Stable Diffusion WebUI",
-        "description": "上手简单，操作方便，适合入门使用。",
+        "display_name": "Stable Diffusion WebUI (NVIDIA)",
+        "description": "Stable Diffusion WebUI 的 NVIDIA 显卡整合包，上手简单，操作方便，适合入门使用。",
         "stable": [
           {
             "filename": "sd_webui-licyk-v3.0.7z",
@@ -2084,8 +2118,8 @@
         ]
       },
       "sd_webui_forge": {
-        "display_name": "Stable Diffusion WebUI Forge",
-        "description": "基于 Stable Diffusion WebUI，有更强的显存优化，多了 FLUX 模型支持。",
+        "display_name": "Stable Diffusion WebUI Forge (NVIDIA)",
+        "description": "Stable Diffusion WebUI Forge 的 NVIDIA 显卡整合包，基于 Stable Diffusion WebUI，有更强的显存优化，多了 FLUX 模型支持。",
         "stable": [
           {
             "filename": "sd_webui_forge-licyk-v3.0.7z",
@@ -2172,8 +2206,8 @@
         ]
       },
       "sd_webui_forge_classic": {
-        "display_name": "Stable Diffusion WebUI Forge Classic",
-        "description": "Stable Diffusion WebUI Forge 的经典版本整合包。",
+        "display_name": "Stable Diffusion WebUI Forge Classic (NVIDIA)",
+        "description": "Stable Diffusion WebUI Forge Classic 的 NVIDIA 显卡整合包，属于 Stable Diffusion WebUI Forge 的经典版本。",
         "stable": [],
         "nightly": [
           {
@@ -2199,8 +2233,8 @@
         ]
       },
       "sd_webui_forge_neo": {
-        "display_name": "Stable Diffusion WebUI Forge Neo",
-        "description": "基于旧版 Stable Diffusion WebUI Forge 开发，精简了无用组件，更轻量。",
+        "display_name": "Stable Diffusion WebUI Forge Neo (NVIDIA)",
+        "description": "Stable Diffusion WebUI Forge Neo 的 NVIDIA 显卡整合包，基于旧版 Stable Diffusion WebUI Forge 开发，精简了无用组件，更轻量。",
         "stable": [],
         "nightly": [
           {
@@ -2265,9 +2299,43 @@
           }
         ]
       },
+      "sd_webui_forge_neo_rocm": {
+        "display_name": "Stable Diffusion WebUI Forge Neo (ROCm)",
+        "description": "Stable Diffusion WebUI Forge Neo 的 AMD 显卡整合包，基于旧版 Stable Diffusion WebUI Forge 开发，精简了无用组件，更轻量。",
+        "stable": [],
+        "nightly": [
+          {
+            "filename": "sd_webui_forge_neo_rocm-licyk-20260621-nightly.7z",
+            "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-20260621-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge_neo_rocm%2Fsd_webui_forge_neo_rocm-licyk-20260621-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260621",
+            "extension": "7z"
+          }
+        ]
+      },
+      "sd_webui_forge_neo_xpu": {
+        "display_name": "Stable Diffusion WebUI Forge Neo (XPU)",
+        "description": "Stable Diffusion WebUI Forge Neo 的 Intel 显卡整合包，基于旧版 Stable Diffusion WebUI Forge 开发，精简了无用组件，更轻量。",
+        "stable": [],
+        "nightly": [
+          {
+            "filename": "sd_webui_forge_neo_xpu-licyk-20260621-nightly.7z",
+            "path": "portable/nightly/sd_webui_forge_neo_xpu/sd_webui_forge_neo_xpu-licyk-20260621-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge_neo_xpu%2Fsd_webui_forge_neo_xpu-licyk-20260621-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260621",
+            "extension": "7z"
+          }
+        ]
+      },
       "sd_webui_reforge": {
-        "display_name": "Stable Diffusion WebUI reForge",
-        "description": "基于旧版 Stable Diffusion WebUI Forge 开发，插件兼容性比 Stable Diffusion WebUI Forge 好一点。",
+        "display_name": "Stable Diffusion WebUI reForge (NVIDIA)",
+        "description": "Stable Diffusion WebUI reForge 的 NVIDIA 显卡整合包，基于旧版 Stable Diffusion WebUI Forge 开发，插件兼容性比 Stable Diffusion WebUI Forge 好一点。",
         "stable": [],
         "nightly": [
           {
