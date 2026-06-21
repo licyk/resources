@@ -609,6 +609,12 @@
                 "model_link": "https://civitai.com/models/833294?modelVersionId=1190596",
                 "version": "v1.0",
                 "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/noob-xl-vpre-10-KonYa666_1-000035.safetensors"
+            },
+            {
+                "model_name": "Anima 1.0",
+                "model_link": "https://huggingface.co/circlestone-labs/Anima",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/anima/style/anima-v1-KonYa666_1-000035.safetensors"
             }
         ]
     },
@@ -1257,6 +1263,12 @@
                 "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
                 "version": "v1.1",
                 "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-ogipote_3-000038.safetensors"
+            },
+            {
+                "model_name": "Anima 1.0",
+                "model_link": "https://huggingface.co/circlestone-labs/Anima",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/anima/style/anima-v1-ogipote_1-000035.safetensors"
             }
         ]
     },
