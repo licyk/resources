@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-21T23:41:44Z",
+  "update_time": "2026-06-22T23:41:31Z",
   "resources": {
     "huggingface": {
       "comfyui": {
@@ -218,12 +218,12 @@
         "description": "Fooocus 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，化繁为简，更专注于提示词书写。",
         "stable": [
           {
-            "filename": "fooocus-licyk-v3.0.7z",
-            "path": "portable/stable/fooocus/fooocus-licyk-v3.0.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/fooocus/fooocus-licyk-v3.0.7z",
+            "filename": "fooocus-licyk-v3.1.7z",
+            "path": "portable/stable/fooocus/fooocus-licyk-v3.1.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/fooocus/fooocus-licyk-v3.1.7z",
             "signature": "licyk",
             "channel": "stable",
-            "version": "3.0",
+            "version": "3.1",
             "build_date": null,
             "extension": "7z"
           }
@@ -363,12 +363,12 @@
         "description": "Kohya GUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，支持训练更多种类的模型，不过操作麻烦一点。",
         "stable": [
           {
-            "filename": "kohya_gui-licyk-v2.9.7z",
-            "path": "portable/stable/kohya_gui/kohya_gui-licyk-v2.9.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/kohya_gui/kohya_gui-licyk-v2.9.7z",
+            "filename": "kohya_gui-licyk-v3.0.7z",
+            "path": "portable/stable/kohya_gui/kohya_gui-licyk-v3.0.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/kohya_gui/kohya_gui-licyk-v3.0.7z",
             "signature": "licyk",
             "channel": "stable",
-            "version": "2.9",
+            "version": "3.0",
             "build_date": null,
             "extension": "7z"
           }
@@ -719,12 +719,12 @@
         "description": "SD Trainer 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，训练模型如此简单。",
         "stable": [
           {
-            "filename": "sd_trainer-licyk-v3.0.7z",
-            "path": "portable/stable/sd_trainer/sd_trainer-licyk-v3.0.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/sd_trainer/sd_trainer-licyk-v3.0.7z",
+            "filename": "sd_trainer-licyk-v3.1.7z",
+            "path": "portable/stable/sd_trainer/sd_trainer-licyk-v3.1.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/sd_trainer/sd_trainer-licyk-v3.1.7z",
             "signature": "licyk",
             "channel": "stable",
-            "version": "3.0",
+            "version": "3.1",
             "build_date": null,
             "extension": "7z"
           }
@@ -844,12 +844,12 @@
         "description": "Stable Diffusion WebUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，上手简单，操作方便，适合入门使用。",
         "stable": [
           {
-            "filename": "sd_webui-licyk-v3.0.7z",
-            "path": "portable/stable/sd_webui/sd_webui-licyk-v3.0.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/sd_webui/sd_webui-licyk-v3.0.7z",
+            "filename": "sd_webui-licyk-v3.1.7z",
+            "path": "portable/stable/sd_webui/sd_webui-licyk-v3.1.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/sd_webui/sd_webui-licyk-v3.1.7z",
             "signature": "licyk",
             "channel": "stable",
-            "version": "3.0",
+            "version": "3.1",
             "build_date": null,
             "extension": "7z"
           }
@@ -932,12 +932,12 @@
         "description": "Stable Diffusion WebUI Forge 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，基于 Stable Diffusion WebUI，有更强的显存优化，多了 FLUX 模型支持。",
         "stable": [
           {
-            "filename": "sd_webui_forge-licyk-v3.0.7z",
-            "path": "portable/stable/sd_webui_forge/sd_webui_forge-licyk-v3.0.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/sd_webui_forge/sd_webui_forge-licyk-v3.0.7z",
+            "filename": "sd_webui_forge-licyk-v3.1.7z",
+            "path": "portable/stable/sd_webui_forge/sd_webui_forge-licyk-v3.1.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/sd_webui_forge/sd_webui_forge-licyk-v3.1.7z",
             "signature": "licyk",
             "channel": "stable",
-            "version": "3.0",
+            "version": "3.1",
             "build_date": null,
             "extension": "7z"
           }
@@ -1448,12 +1448,12 @@
         "description": "Fooocus 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，化繁为简，更专注于提示词书写。",
         "stable": [
           {
-            "filename": "fooocus-licyk-v3.0.7z",
-            "path": "portable/stable/fooocus/fooocus-licyk-v3.0.7z",
-            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Ffooocus%2Ffooocus-licyk-v3.0.7z",
+            "filename": "fooocus-licyk-v3.1.7z",
+            "path": "portable/stable/fooocus/fooocus-licyk-v3.1.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Ffooocus%2Ffooocus-licyk-v3.1.7z",
             "signature": "licyk",
             "channel": "stable",
-            "version": "3.0",
+            "version": "3.1",
             "build_date": null,
             "extension": "7z"
           }
@@ -1593,12 +1593,12 @@
         "description": "Kohya GUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，支持训练更多种类的模型，不过操作麻烦一点。",
         "stable": [
           {
-            "filename": "kohya_gui-licyk-v2.9.7z",
-            "path": "portable/stable/kohya_gui/kohya_gui-licyk-v2.9.7z",
-            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Fkohya_gui%2Fkohya_gui-licyk-v2.9.7z",
+            "filename": "kohya_gui-licyk-v3.0.7z",
+            "path": "portable/stable/kohya_gui/kohya_gui-licyk-v3.0.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Fkohya_gui%2Fkohya_gui-licyk-v3.0.7z",
             "signature": "licyk",
             "channel": "stable",
-            "version": "2.9",
+            "version": "3.0",
             "build_date": null,
             "extension": "7z"
           }
@@ -1949,12 +1949,12 @@
         "description": "SD Trainer 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，训练模型如此简单。",
         "stable": [
           {
-            "filename": "sd_trainer-licyk-v3.0.7z",
-            "path": "portable/stable/sd_trainer/sd_trainer-licyk-v3.0.7z",
-            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Fsd_trainer%2Fsd_trainer-licyk-v3.0.7z",
+            "filename": "sd_trainer-licyk-v3.1.7z",
+            "path": "portable/stable/sd_trainer/sd_trainer-licyk-v3.1.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Fsd_trainer%2Fsd_trainer-licyk-v3.1.7z",
             "signature": "licyk",
             "channel": "stable",
-            "version": "3.0",
+            "version": "3.1",
             "build_date": null,
             "extension": "7z"
           }
@@ -2074,12 +2074,12 @@
         "description": "Stable Diffusion WebUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，上手简单，操作方便，适合入门使用。",
         "stable": [
           {
-            "filename": "sd_webui-licyk-v3.0.7z",
-            "path": "portable/stable/sd_webui/sd_webui-licyk-v3.0.7z",
-            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Fsd_webui%2Fsd_webui-licyk-v3.0.7z",
+            "filename": "sd_webui-licyk-v3.1.7z",
+            "path": "portable/stable/sd_webui/sd_webui-licyk-v3.1.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Fsd_webui%2Fsd_webui-licyk-v3.1.7z",
             "signature": "licyk",
             "channel": "stable",
-            "version": "3.0",
+            "version": "3.1",
             "build_date": null,
             "extension": "7z"
           }
@@ -2162,12 +2162,12 @@
         "description": "Stable Diffusion WebUI Forge 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，基于 Stable Diffusion WebUI，有更强的显存优化，多了 FLUX 模型支持。",
         "stable": [
           {
-            "filename": "sd_webui_forge-licyk-v3.0.7z",
-            "path": "portable/stable/sd_webui_forge/sd_webui_forge-licyk-v3.0.7z",
-            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Fsd_webui_forge%2Fsd_webui_forge-licyk-v3.0.7z",
+            "filename": "sd_webui_forge-licyk-v3.1.7z",
+            "path": "portable/stable/sd_webui_forge/sd_webui_forge-licyk-v3.1.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Fsd_webui_forge%2Fsd_webui_forge-licyk-v3.1.7z",
             "signature": "licyk",
             "channel": "stable",
-            "version": "3.0",
+            "version": "3.1",
             "build_date": null,
             "extension": "7z"
           }
