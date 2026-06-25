@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-24T23:19:53Z",
+  "update_time": "2026-06-25T23:42:27Z",
   "resources": {
     "huggingface": {
       "comfyui": {
@@ -794,16 +794,6 @@
             "version": null,
             "build_date": "20260527",
             "extension": "7z"
-          },
-          {
-            "filename": "sd_webui-licyk-20260526-nightly.7z",
-            "path": "portable/nightly/sd_webui/sd_webui-licyk-20260526-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui/sd_webui-licyk-20260526-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260526",
-            "extension": "7z"
           }
         ]
       },
@@ -872,16 +862,6 @@
             "version": null,
             "build_date": "20260527",
             "extension": "7z"
-          },
-          {
-            "filename": "sd_webui_forge-licyk-20260526-nightly.7z",
-            "path": "portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260526-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260526-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260526",
-            "extension": "7z"
           }
         ]
       },
@@ -948,16 +928,6 @@
             "channel": "nightly",
             "version": null,
             "build_date": "20260527",
-            "extension": "7z"
-          },
-          {
-            "filename": "sd_webui_forge_neo-licyk-20260526-nightly.7z",
-            "path": "portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260526-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260526-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260526",
             "extension": "7z"
           }
         ]
@@ -1867,16 +1837,6 @@
             "version": null,
             "build_date": "20260527",
             "extension": "7z"
-          },
-          {
-            "filename": "sd_webui-licyk-20260526-nightly.7z",
-            "path": "portable/nightly/sd_webui/sd_webui-licyk-20260526-nightly.7z",
-            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui%2Fsd_webui-licyk-20260526-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260526",
-            "extension": "7z"
           }
         ]
       },
@@ -1945,16 +1905,6 @@
             "version": null,
             "build_date": "20260527",
             "extension": "7z"
-          },
-          {
-            "filename": "sd_webui_forge-licyk-20260526-nightly.7z",
-            "path": "portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260526-nightly.7z",
-            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge%2Fsd_webui_forge-licyk-20260526-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260526",
-            "extension": "7z"
           }
         ]
       },
@@ -2021,16 +1971,6 @@
             "channel": "nightly",
             "version": null,
             "build_date": "20260527",
-            "extension": "7z"
-          },
-          {
-            "filename": "sd_webui_forge_neo-licyk-20260526-nightly.7z",
-            "path": "portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260526-nightly.7z",
-            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge_neo%2Fsd_webui_forge_neo-licyk-20260526-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260526",
             "extension": "7z"
           }
         ]
