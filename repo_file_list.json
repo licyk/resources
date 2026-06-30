@@ -9985,28 +9985,28 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/ACE-Step/ace_step_v1_3.5b.safetensors"
                 ],
                 [
-                    "HiDream-E1/ae.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream-E1/ae.safetensors"
-                ],
-                [
                     "OmniGen2/ae.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/OmniGen2/ae.safetensors"
-                ],
-                [
-                    "Z-Image/ae.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Z-Image/ae.safetensors"
                 ],
                 [
                     "HiDream/ae.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream/ae.safetensors"
                 ],
                 [
-                    "Lumina_Image_2.0/ae.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Lumina_Image_2.0/ae.safetensors"
+                    "HiDream-E1/ae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream-E1/ae.safetensors"
                 ],
                 [
                     "Ovis-Image/ae.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Ovis-Image/ae.safetensors"
+                ],
+                [
+                    "Z-Image/ae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Z-Image/ae.safetensors"
+                ],
+                [
+                    "Lumina_Image_2.0/ae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Lumina_Image_2.0/ae.safetensors"
                 ],
                 [
                     "Anima/anima-base-v1.0.safetensors",
@@ -10037,12 +10037,12 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/hunyuan_video_1.5/byt5_small_glyphxl_fp16.safetensors"
                 ],
                 [
-                    "HiDream/clip_g_hidream.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream/clip_g_hidream.safetensors"
-                ],
-                [
                     "HiDream-E1/clip_g_hidream.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream-E1/clip_g_hidream.safetensors"
+                ],
+                [
+                    "HiDream/clip_g_hidream.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream/clip_g_hidream.safetensors"
                 ],
                 [
                     "hunyuan_video/clip_l.safetensors",
@@ -10053,40 +10053,44 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Kandinsky_5.0/clip_l.safetensors"
                 ],
                 [
-                    "HiDream-E1/clip_l_hidream.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream-E1/clip_l_hidream.safetensors"
-                ],
-                [
                     "HiDream/clip_l_hidream.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream/clip_l_hidream.safetensors"
                 ],
                 [
-                    "Wan2.2_Animate/clip_vision_h.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Animate/clip_vision_h.safetensors"
-                ],
-                [
-                    "Wan2.1_Fun_Camera/clip_vision_h.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Camera/clip_vision_h.safetensors"
-                ],
-                [
-                    "Wan2.1_Fun_InP/clip_vision_h.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_InP/clip_vision_h.safetensors"
+                    "HiDream-E1/clip_l_hidream.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream-E1/clip_l_hidream.safetensors"
                 ],
                 [
                     "Wan2.1_FLF2V/clip_vision_h.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_FLF2V/clip_vision_h.safetensors"
                 ],
                 [
-                    "Wan_2.1/clip_vision_h.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan_2.1/clip_vision_h.safetensors"
-                ],
-                [
                     "Wan2.1_ATI/clip_vision_h.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_ATI/clip_vision_h.safetensors"
                 ],
                 [
+                    "Wan2.1_Fun_InP/clip_vision_h.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_InP/clip_vision_h.safetensors"
+                ],
+                [
+                    "scail2/clip_vision_h.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/scail2/clip_vision_h.safetensors"
+                ],
+                [
                     "Wan2.1_Fun_Control/clip_vision_h.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Control/clip_vision_h.safetensors"
+                ],
+                [
+                    "Wan2.2_Animate/clip_vision_h.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Animate/clip_vision_h.safetensors"
+                ],
+                [
+                    "Wan_2.1/clip_vision_h.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan_2.1/clip_vision_h.safetensors"
+                ],
+                [
+                    "Wan2.1_Fun_Camera/clip_vision_h.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Camera/clip_vision_h.safetensors"
                 ],
                 [
                     "void-video-inpainting/cogvideox_vae.safetensors",
@@ -10121,12 +10125,12 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/cosmos/cosmos_cv8x8x8_1.0.safetensors"
                 ],
                 [
-                    "Wan2.1_Fun_InP/diffusion_pytorch_model.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_InP/diffusion_pytorch_model.safetensors"
-                ],
-                [
                     "Wan2.1_Fun_Control/diffusion_pytorch_model.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Control/diffusion_pytorch_model.safetensors"
+                ],
+                [
+                    "Wan2.1_Fun_InP/diffusion_pytorch_model.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_InP/diffusion_pytorch_model.safetensors"
                 ],
                 [
                     "TripoSplat/dino_v3_vit_h.safetensors",
@@ -10149,6 +10153,10 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/flux2_klein/flux-2-klein-base-9b-fp8.safetensors"
                 ],
                 [
+                    "ideogram-v4/flux2-vae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/ideogram-v4/flux2-vae.safetensors"
+                ],
+                [
                     "Lens/flux2-vae.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Lens/flux2-vae.safetensors"
                 ],
@@ -10163,10 +10171,6 @@
                 [
                     "TripoSplat/flux2-vae.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/TripoSplat/flux2-vae.safetensors"
-                ],
-                [
-                    "ideogram-v4/flux2-vae.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/ideogram-v4/flux2-vae.safetensors"
                 ],
                 [
                     "flux2/flux2_dev_fp8mixed.safetensors",
@@ -10185,16 +10189,16 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/gemma4/gemma4_e4b_it_bf16.safetensors"
                 ],
                 [
+                    "gemma4/gemma4_e4b_it_fp8_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/gemma4/gemma4_e4b_it_fp8_scaled.safetensors"
+                ],
+                [
                     "ideogram-v4/gemma4_e4b_it_fp8_scaled.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/ideogram-v4/gemma4_e4b_it_fp8_scaled.safetensors"
                 ],
                 [
                     "HiDream-O1/gemma4_e4b_it_fp8_scaled.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream-O1/gemma4_e4b_it_fp8_scaled.safetensors"
-                ],
-                [
-                    "gemma4/gemma4_e4b_it_fp8_scaled.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/gemma4/gemma4_e4b_it_fp8_scaled.safetensors"
                 ],
                 [
                     "Lumina_Image_2.0/gemma_2_2b_fp16.safetensors",
@@ -10305,12 +10309,12 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/hunyuan_video/hunyuan_video_v2_replace_image_to_video_720p_bf16.safetensors"
                 ],
                 [
-                    "hunyuan_video/hunyuan_video_vae_bf16.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/hunyuan_video/hunyuan_video_vae_bf16.safetensors"
-                ],
-                [
                     "Kandinsky_5.0/hunyuan_video_vae_bf16.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Kandinsky_5.0/hunyuan_video_vae_bf16.safetensors"
+                ],
+                [
+                    "hunyuan_video/hunyuan_video_vae_bf16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/hunyuan_video/hunyuan_video_vae_bf16.safetensors"
                 ],
                 [
                     "HunyuanImage_2.1/hunyuanimage-refiner.safetensors",
@@ -10349,6 +10353,10 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Kandinsky_5.0/kandinsky5lite_i2v_5s.safetensors"
                 ],
                 [
+                    "krea-2/krea2_turbo_fp8_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/krea-2/krea2_turbo_fp8_scaled.safetensors"
+                ],
+                [
                     "Lens/lens_bf16.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Lens/lens_bf16.safetensors"
                 ],
@@ -10357,16 +10365,24 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Lens/lens_turbo_bf16.safetensors"
                 ],
                 [
+                    "scail2/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/scail2/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors"
+                ],
+                [
                     "Wan2.2_Animate/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Animate/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors"
                 ],
                 [
-                    "HiDream-E1/llama_3.1_8b_instruct_fp8_scaled.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream-E1/llama_3.1_8b_instruct_fp8_scaled.safetensors"
+                    "bernini-r/lightx2v_T2V_14B_cfg_step_distill_v2_lora_rank64_bf16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/bernini-r/lightx2v_T2V_14B_cfg_step_distill_v2_lora_rank64_bf16.safetensors"
                 ],
                 [
                     "HiDream/llama_3.1_8b_instruct_fp8_scaled.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream/llama_3.1_8b_instruct_fp8_scaled.safetensors"
+                ],
+                [
+                    "HiDream-E1/llama_3.1_8b_instruct_fp8_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HiDream-E1/llama_3.1_8b_instruct_fp8_scaled.safetensors"
                 ],
                 [
                     "hunyuan_video/llava_llama3_fp16.safetensors",
@@ -10529,12 +10545,12 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Qwen-Image/Qwen-Image-Lightning-8steps-V1.0.safetensors"
                 ],
                 [
-                    "qwen3_5/qwen3.5_2b_bf16.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/qwen3_5/qwen3.5_2b_bf16.safetensors"
-                ],
-                [
                     "qwen3/qwen3.5_2b_bf16.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/qwen3/qwen3.5_2b_bf16.safetensors"
+                ],
+                [
+                    "qwen3_5/qwen3.5_2b_bf16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/qwen3_5/qwen3.5_2b_bf16.safetensors"
                 ],
                 [
                     "qwen3/qwen3.5_4b_bf16.safetensors",
@@ -10545,12 +10561,16 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/qwen3_5/qwen3.5_4b_bf16.safetensors"
                 ],
                 [
+                    "qwen3_5/qwen3.5_9b_bf16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/qwen3_5/qwen3.5_9b_bf16.safetensors"
+                ],
+                [
                     "qwen3/qwen3.5_9b_bf16.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/qwen3/qwen3.5_9b_bf16.safetensors"
                 ],
                 [
-                    "qwen3_5/qwen3.5_9b_bf16.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/qwen3_5/qwen3.5_9b_bf16.safetensors"
+                    "krea-2/qwen3vl_4b_fp8_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/krea-2/qwen3vl_4b_fp8_scaled.safetensors"
                 ],
                 [
                     "ideogram-v4/qwen3vl_8b_fp8_scaled.safetensors",
@@ -10561,10 +10581,6 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HunyuanImage_2.1/qwen_2.5_vl_7b.safetensors"
                 ],
                 [
-                    "hunyuan_video_1.5/qwen_2.5_vl_7b_fp8_scaled.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/hunyuan_video_1.5/qwen_2.5_vl_7b_fp8_scaled.safetensors"
-                ],
-                [
                     "Qwen-Image-Edit/qwen_2.5_vl_7b_fp8_scaled.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Qwen-Image-Edit/qwen_2.5_vl_7b_fp8_scaled.safetensors"
                 ],
@@ -10573,12 +10589,16 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/HunyuanImage_2.1/qwen_2.5_vl_7b_fp8_scaled.safetensors"
                 ],
                 [
-                    "Qwen-Image/qwen_2.5_vl_7b_fp8_scaled.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Qwen-Image/qwen_2.5_vl_7b_fp8_scaled.safetensors"
-                ],
-                [
                     "Kandinsky_5.0/qwen_2.5_vl_7b_fp8_scaled.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Kandinsky_5.0/qwen_2.5_vl_7b_fp8_scaled.safetensors"
+                ],
+                [
+                    "hunyuan_video_1.5/qwen_2.5_vl_7b_fp8_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/hunyuan_video_1.5/qwen_2.5_vl_7b_fp8_scaled.safetensors"
+                ],
+                [
+                    "Qwen-Image/qwen_2.5_vl_7b_fp8_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Qwen-Image/qwen_2.5_vl_7b_fp8_scaled.safetensors"
                 ],
                 [
                     "OmniGen2/qwen_2.5_vl_fp16.safetensors",
@@ -10633,16 +10653,20 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Qwen-Image-ControlNets/qwen_image_union_diffsynth_lora.safetensors"
                 ],
                 [
-                    "Anima/qwen_image_vae.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Anima/qwen_image_vae.safetensors"
-                ],
-                [
                     "Qwen-Image-Edit/qwen_image_vae.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Qwen-Image-Edit/qwen_image_vae.safetensors"
                 ],
                 [
                     "Qwen-Image/qwen_image_vae.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Qwen-Image/qwen_image_vae.safetensors"
+                ],
+                [
+                    "Anima/qwen_image_vae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Anima/qwen_image_vae.safetensors"
+                ],
+                [
+                    "krea-2/qwen_image_vae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/krea-2/qwen_image_vae.safetensors"
                 ],
                 [
                     "void-video-inpainting/raft_large_C_T_SKHT_V2-ff5fadd5.safetensors",
@@ -10659,6 +10683,10 @@
                 [
                     "void-video-inpainting/sam3.1_multiplex_fp16.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/void-video-inpainting/sam3.1_multiplex_fp16.safetensors"
+                ],
+                [
+                    "scail2/sam3.1_multiplex_fp16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/scail2/sam3.1_multiplex_fp16.safetensors"
                 ],
                 [
                     "stable_audio_3/stable_audio_3_medium.safetensors",
@@ -10709,24 +10737,8 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/TripoSplat/triposplat_vae_decoder_fp16.safetensors"
                 ],
                 [
-                    "Wan2.1_Fun_Control/umt5_xxl_fp16.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Control/umt5_xxl_fp16.safetensors"
-                ],
-                [
                     "Wan2.1_VACE/umt5_xxl_fp16.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_VACE/umt5_xxl_fp16.safetensors"
-                ],
-                [
-                    "Wan2.1_Fun_InP/umt5_xxl_fp16.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_InP/umt5_xxl_fp16.safetensors"
-                ],
-                [
-                    "Wan2.1_Fun_Camera/umt5_xxl_fp16.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Camera/umt5_xxl_fp16.safetensors"
-                ],
-                [
-                    "Wan_2.1/umt5_xxl_fp16.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan_2.1/umt5_xxl_fp16.safetensors"
                 ],
                 [
                     "Wan2.1_ATI/umt5_xxl_fp16.safetensors",
@@ -10737,52 +10749,76 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_FLF2V/umt5_xxl_fp16.safetensors"
                 ],
                 [
-                    "Wan2.1_Fun_Camera/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Camera/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                    "Wan2.1_Fun_Camera/umt5_xxl_fp16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Camera/umt5_xxl_fp16.safetensors"
                 ],
                 [
-                    "Wan2.1_Fun_Control/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Control/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                    "Wan2.1_Fun_Control/umt5_xxl_fp16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Control/umt5_xxl_fp16.safetensors"
                 ],
                 [
-                    "Wan2.1_ATI/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_ATI/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                    "Wan_2.1/umt5_xxl_fp16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan_2.1/umt5_xxl_fp16.safetensors"
                 ],
                 [
-                    "Wan2.1_FLF2V/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_FLF2V/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                    "Wan2.1_Fun_InP/umt5_xxl_fp16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_InP/umt5_xxl_fp16.safetensors"
                 ],
                 [
                     "Wan2.1_Fun_InP/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_InP/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
                 ],
                 [
-                    "Wan2.1_VACE/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_VACE/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                    "Wan2.1_Fun_Camera/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Camera/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
                 ],
                 [
                     "Wan2.2_Fun_Camera/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Camera/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
                 ],
                 [
-                    "Wan2.2/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                    "Wan2.1_FLF2V/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_FLF2V/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
                 ],
                 [
-                    "Wan2.2_Fun_Inp/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Inp/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                    "bernini-r/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/bernini-r/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
                 ],
                 [
                     "Wan2.2_Fun_Control/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Control/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
                 ],
                 [
-                    "Wan_2.1/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan_2.1/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                    "scail2/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/scail2/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                ],
+                [
+                    "Wan2.2/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                ],
+                [
+                    "Wan2.1_ATI/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_ATI/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                ],
+                [
+                    "Wan2.1_Fun_Control/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Control/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                ],
+                [
+                    "Wan2.2_Fun_Inp/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Inp/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                ],
+                [
+                    "Wan2.1_VACE/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_VACE/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
                 ],
                 [
                     "Wan2.2_Animate/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Animate/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+                ],
+                [
+                    "Wan_2.1/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan_2.1/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
                 ],
                 [
                     "void-video-inpainting/void_pass1.safetensors",
@@ -10791,6 +10827,10 @@
                 [
                     "void-video-inpainting/void_pass2.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/void-video-inpainting/void_pass2.safetensors"
+                ],
+                [
+                    "scail2/wan2.1_14B_SCAIL_2_fp16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/scail2/wan2.1_14B_SCAIL_2_fp16.safetensors"
                 ],
                 [
                     "Wan2.1_FLF2V/wan2.1_flf2v_720p_14B_fp16.safetensors",
@@ -10825,6 +10865,10 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan_2.1/wan2.1_i2v_720p_14B_bf16.safetensors"
                 ],
                 [
+                    "scail2/wan2.1_SCAIL_2_DPO_lora_bf16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/scail2/wan2.1_SCAIL_2_DPO_lora_bf16.safetensors"
+                ],
+                [
                     "Wan_2.1/wan2.1_t2v_1.3B_bf16.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan_2.1/wan2.1_t2v_1.3B_bf16.safetensors"
                 ],
@@ -10843,6 +10887,10 @@
                 [
                     "Wan2.2_Animate/wan2.2_animate_14B_bf16.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Animate/wan2.2_animate_14B_bf16.safetensors"
+                ],
+                [
+                    "bernini-r/wan2.2_bernini_r_high_noise_fp16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/bernini-r/wan2.2_bernini_r_high_noise_fp16.safetensors"
                 ],
                 [
                     "Wan2.2_Fun_Camera/wan2.2_fun_camera_high_noise_14B_fp8_scaled.safetensors",
@@ -10885,16 +10933,16 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Control/wan2.2_i2v_lightx2v_4steps_lora_v1_high_noise.safetensors"
                 ],
                 [
-                    "Wan2.2_Fun_Inp/wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Inp/wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors"
-                ],
-                [
                     "Wan2.2_Fun_Camera/wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Camera/wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors"
                 ],
                 [
                     "Wan2.2_Fun_Control/wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Control/wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors"
+                ],
+                [
+                    "Wan2.2_Fun_Inp/wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Inp/wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors"
                 ],
                 [
                     "Wan2.2/wan2.2_i2v_low_noise_14B_fp16.safetensors",
@@ -10929,48 +10977,56 @@
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_ATI/Wan2_1-I2V-ATI-14B_fp8_e4m3fn.safetensors"
                 ],
                 [
+                    "scail2/Wan2_1_VAE_bf16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/scail2/Wan2_1_VAE_bf16.safetensors"
+                ],
+                [
+                    "bernini-r/Wan2_1_VAE_bf16.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/bernini-r/Wan2_1_VAE_bf16.safetensors"
+                ],
+                [
                     "Wan2.2_Animate/Wan2_2-Animate-14B_fp8_e4m3fn_scaled_KJ.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Animate/Wan2_2-Animate-14B_fp8_e4m3fn_scaled_KJ.safetensors"
-                ],
-                [
-                    "Wan_2.1/wan_2.1_vae.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan_2.1/wan_2.1_vae.safetensors"
-                ],
-                [
-                    "Wan2.1_Fun_InP/wan_2.1_vae.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_InP/wan_2.1_vae.safetensors"
                 ],
                 [
                     "Wan2.2_Animate/wan_2.1_vae.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Animate/wan_2.1_vae.safetensors"
                 ],
                 [
-                    "Wan2.1_FLF2V/wan_2.1_vae.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_FLF2V/wan_2.1_vae.safetensors"
-                ],
-                [
-                    "Wan2.1_Fun_Control/wan_2.1_vae.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Control/wan_2.1_vae.safetensors"
+                    "Wan_2.1/wan_2.1_vae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan_2.1/wan_2.1_vae.safetensors"
                 ],
                 [
                     "Wan2.1_Fun_Camera/wan_2.1_vae.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Camera/wan_2.1_vae.safetensors"
                 ],
                 [
-                    "Wan2.1_ATI/wan_2.1_vae.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_ATI/wan_2.1_vae.safetensors"
+                    "Wan2.1_Fun_InP/wan_2.1_vae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_InP/wan_2.1_vae.safetensors"
                 ],
                 [
-                    "Wan2.2_Fun_Camera/wan_2.1_vae.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Camera/wan_2.1_vae.safetensors"
+                    "Wan2.2_Fun_Inp/wan_2.1_vae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Inp/wan_2.1_vae.safetensors"
                 ],
                 [
                     "Wan2.1_VACE/wan_2.1_vae.safetensors",
                     "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_VACE/wan_2.1_vae.safetensors"
                 ],
                 [
-                    "Wan2.2_Fun_Inp/wan_2.1_vae.safetensors",
-                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Inp/wan_2.1_vae.safetensors"
+                    "Wan2.1_Fun_Control/wan_2.1_vae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_Fun_Control/wan_2.1_vae.safetensors"
+                ],
+                [
+                    "Wan2.2_Fun_Camera/wan_2.1_vae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.2_Fun_Camera/wan_2.1_vae.safetensors"
+                ],
+                [
+                    "Wan2.1_FLF2V/wan_2.1_vae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_FLF2V/wan_2.1_vae.safetensors"
+                ],
+                [
+                    "Wan2.1_ATI/wan_2.1_vae.safetensors",
+                    "https://modelscope.cn/models/licyks/comfyui-model/resolve/master/Wan2.1_ATI/wan_2.1_vae.safetensors"
                 ],
                 [
                     "Wan2.2_Fun_Control/wan_2.1_vae.safetensors",
