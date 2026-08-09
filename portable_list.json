@@ -1,7 +1,58 @@
 {
-  "update_time": "2026-08-08T22:43:30Z",
+  "update_time": "2026-08-09T22:46:05Z",
   "resources": {
     "huggingface": {
+      "comfyui": {
+        "display_name": "ComfyUI (NVIDIA)",
+        "description": "ComfyUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，流程高度自定义，可玩性高，显存优化强，支持的模型丰富。",
+        "stable": [],
+        "nightly": [
+          {
+            "filename": "comfyui-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/comfyui/comfyui-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/comfyui/comfyui-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          }
+        ]
+      },
+      "comfyui_rocm": {
+        "display_name": "ComfyUI (AMD)",
+        "description": "ComfyUI 的 AMD 显卡整合包，使用 ROCm 版 PyTorch，流程高度自定义，可玩性高。",
+        "stable": [],
+        "nightly": [
+          {
+            "filename": "comfyui_rocm-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/comfyui_rocm/comfyui_rocm-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/comfyui_rocm/comfyui_rocm-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          }
+        ]
+      },
+      "comfyui_xpu": {
+        "display_name": "ComfyUI (Intel)",
+        "description": "ComfyUI 的 Intel 显卡整合包，使用 XPU 版 PyTorch，流程高度自定义，可玩性高。",
+        "stable": [],
+        "nightly": [
+          {
+            "filename": "comfyui_xpu-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/comfyui_xpu/comfyui_xpu-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/comfyui_xpu/comfyui_xpu-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          }
+        ]
+      },
       "fooocus": {
         "display_name": "Fooocus (NVIDIA)",
         "description": "Fooocus 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，化繁为简，更专注于提示词书写。",
@@ -18,6 +69,16 @@
           }
         ],
         "nightly": [
+          {
+            "filename": "fooocus-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/fooocus/fooocus-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/fooocus/fooocus-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "fooocus-licyk-20260803-nightly.7z",
             "path": "portable/nightly/fooocus/fooocus-licyk-20260803-nightly.7z",
@@ -65,6 +126,16 @@
         "description": "InvokeAI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，拥有最强大的画布系统，更适合作为辅助绘画工具。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "invokeai-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/invokeai/invokeai-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/invokeai/invokeai-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "invokeai-licyk-20260803-nightly.7z",
             "path": "portable/nightly/invokeai/invokeai-licyk-20260803-nightly.7z",
@@ -124,6 +195,16 @@
         ],
         "nightly": [
           {
+            "filename": "kohya_gui-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/kohya_gui/kohya_gui-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/kohya_gui/kohya_gui-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "kohya_gui-licyk-20260803-nightly.7z",
             "path": "portable/nightly/kohya_gui/kohya_gui-licyk-20260803-nightly.7z",
             "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/kohya_gui/kohya_gui-licyk-20260803-nightly.7z",
@@ -170,6 +251,16 @@
         "description": "Musubi Tuner 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，支持训练 Hunyuan，Wan 等视频生成模型。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "musubi_tuner-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/musubi_tuner/musubi_tuner-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/musubi_tuner/musubi_tuner-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "musubi_tuner-licyk-20260803-nightly.7z",
             "path": "portable/nightly/musubi_tuner/musubi_tuner-licyk-20260803-nightly.7z",
@@ -265,6 +356,16 @@
         "stable": [],
         "nightly": [
           {
+            "filename": "sd_next-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_next/sd_next-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_next/sd_next-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "sd_next-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_next/sd_next-licyk-20260803-nightly.7z",
             "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_next/sd_next-licyk-20260803-nightly.7z",
@@ -311,6 +412,16 @@
         "description": "SD Scripts 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，支持训练 SD1.5，SDXL，FLUX，ControlNet 等多种模型，并且是 SD-Trainer 和 Kohya GUI 的训练核心，不过操作比较麻烦。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "sd_scripts-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_scripts/sd_scripts-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_scripts/sd_scripts-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "sd_scripts-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_scripts/sd_scripts-licyk-20260803-nightly.7z",
@@ -370,6 +481,16 @@
         ],
         "nightly": [
           {
+            "filename": "sd_trainer-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_trainer/sd_trainer-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_trainer/sd_trainer-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "sd_trainer-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_trainer/sd_trainer-licyk-20260803-nightly.7z",
             "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_trainer/sd_trainer-licyk-20260803-nightly.7z",
@@ -416,6 +537,16 @@
         "description": "SD Trainer Next 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，训练模型如此简单。基于 SD Trainer 分支，并且新增了 Anima 模型的支持。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "sd_trainer_next-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_trainer_next/sd_trainer_next-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_trainer_next/sd_trainer_next-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "sd_trainer_next-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_trainer_next/sd_trainer_next-licyk-20260803-nightly.7z",
@@ -475,6 +606,16 @@
         ],
         "nightly": [
           {
+            "filename": "sd_webui-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_webui/sd_webui-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui/sd_webui-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "sd_webui-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_webui/sd_webui-licyk-20260803-nightly.7z",
             "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui/sd_webui-licyk-20260803-nightly.7z",
@@ -533,6 +674,16 @@
         ],
         "nightly": [
           {
+            "filename": "sd_webui_forge-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "sd_webui_forge-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260803-nightly.7z",
             "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260803-nightly.7z",
@@ -579,6 +730,16 @@
         "description": "Stable Diffusion WebUI Forge Neo 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，基于旧版 Stable Diffusion WebUI Forge 开发，精简了无用组件，更轻量。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "sd_webui_forge_neo-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "sd_webui_forge_neo-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260803-nightly.7z",
@@ -627,6 +788,16 @@
         "stable": [],
         "nightly": [
           {
+            "filename": "sd_webui_forge_neo_rocm-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "sd_webui_forge_neo_rocm-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-20260803-nightly.7z",
             "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-20260803-nightly.7z",
@@ -674,6 +845,16 @@
         "stable": [],
         "nightly": [
           {
+            "filename": "sd_webui_forge_neo_xpu-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_webui_forge_neo_xpu/sd_webui_forge_neo_xpu-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo_xpu/sd_webui_forge_neo_xpu-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "sd_webui_forge_neo_xpu-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_webui_forge_neo_xpu/sd_webui_forge_neo_xpu-licyk-20260803-nightly.7z",
             "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo_xpu/sd_webui_forge_neo_xpu-licyk-20260803-nightly.7z",
@@ -720,6 +901,16 @@
         "description": "Stable Diffusion WebUI reForge 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，基于旧版 Stable Diffusion WebUI Forge 开发，插件兼容性比 Stable Diffusion WebUI Forge 好一点。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "sd_webui_reforge-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_webui_reforge/sd_webui_reforge-licyk-20260810-nightly.7z",
+            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_reforge/sd_webui_reforge-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "sd_webui_reforge-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_webui_reforge/sd_webui_reforge-licyk-20260803-nightly.7z",
@@ -769,6 +960,16 @@
         "description": "ComfyUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，流程高度自定义，可玩性高，显存优化强，支持的模型丰富。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "comfyui-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/comfyui/comfyui-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui%2Fcomfyui-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "comfyui-licyk-20260622-nightly.7z",
             "path": "portable/nightly/comfyui/comfyui-licyk-20260622-nightly.7z",
@@ -827,6 +1028,16 @@
         "stable": [],
         "nightly": [
           {
+            "filename": "comfyui_rocm-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/comfyui_rocm/comfyui_rocm-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui_rocm%2Fcomfyui_rocm-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "comfyui_rocm-licyk-20260622-nightly.7z",
             "path": "portable/nightly/comfyui_rocm/comfyui_rocm-licyk-20260622-nightly.7z",
             "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui_rocm%2Fcomfyui_rocm-licyk-20260622-nightly.7z",
@@ -873,6 +1084,16 @@
         "description": "ComfyUI 的 Intel 显卡整合包，使用 XPU 版 PyTorch，流程高度自定义，可玩性高。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "comfyui_xpu-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/comfyui_xpu/comfyui_xpu-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui_xpu%2Fcomfyui_xpu-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "comfyui_xpu-licyk-20260622-nightly.7z",
             "path": "portable/nightly/comfyui_xpu/comfyui_xpu-licyk-20260622-nightly.7z",
@@ -921,6 +1142,16 @@
           }
         ],
         "nightly": [
+          {
+            "filename": "fooocus-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/fooocus/fooocus-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Ffooocus%2Ffooocus-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "fooocus-licyk-20260803-nightly.7z",
             "path": "portable/nightly/fooocus/fooocus-licyk-20260803-nightly.7z",
@@ -1028,6 +1259,16 @@
         "description": "InvokeAI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，拥有最强大的画布系统，更适合作为辅助绘画工具。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "invokeai-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/invokeai/invokeai-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Finvokeai%2Finvokeai-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "invokeai-licyk-20260803-nightly.7z",
             "path": "portable/nightly/invokeai/invokeai-licyk-20260803-nightly.7z",
@@ -1147,6 +1388,16 @@
         ],
         "nightly": [
           {
+            "filename": "kohya_gui-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/kohya_gui/kohya_gui-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fkohya_gui%2Fkohya_gui-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "kohya_gui-licyk-20260803-nightly.7z",
             "path": "portable/nightly/kohya_gui/kohya_gui-licyk-20260803-nightly.7z",
             "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fkohya_gui%2Fkohya_gui-licyk-20260803-nightly.7z",
@@ -1253,6 +1504,16 @@
         "description": "Musubi Tuner 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，支持训练 Hunyuan，Wan 等视频生成模型。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "musubi_tuner-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/musubi_tuner/musubi_tuner-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fmusubi_tuner%2Fmusubi_tuner-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "musubi_tuner-licyk-20260803-nightly.7z",
             "path": "portable/nightly/musubi_tuner/musubi_tuner-licyk-20260803-nightly.7z",
@@ -1478,6 +1739,16 @@
         "stable": [],
         "nightly": [
           {
+            "filename": "sd_next-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_next/sd_next-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_next%2Fsd_next-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "sd_next-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_next/sd_next-licyk-20260803-nightly.7z",
             "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_next%2Fsd_next-licyk-20260803-nightly.7z",
@@ -1584,6 +1855,16 @@
         "description": "SD Scripts 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，支持训练 SD1.5，SDXL，FLUX，ControlNet 等多种模型，并且是 SD-Trainer 和 Kohya GUI 的训练核心，不过操作比较麻烦。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "sd_scripts-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_scripts/sd_scripts-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_scripts%2Fsd_scripts-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "sd_scripts-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_scripts/sd_scripts-licyk-20260803-nightly.7z",
@@ -1703,6 +1984,16 @@
         ],
         "nightly": [
           {
+            "filename": "sd_trainer-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_trainer/sd_trainer-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_trainer%2Fsd_trainer-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "sd_trainer-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_trainer/sd_trainer-licyk-20260803-nightly.7z",
             "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_trainer%2Fsd_trainer-licyk-20260803-nightly.7z",
@@ -1809,6 +2100,16 @@
         "description": "SD Trainer Next 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，训练模型如此简单。基于 SD Trainer 分支，并且新增了 Anima 模型的支持。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "sd_trainer_next-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_trainer_next/sd_trainer_next-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_trainer_next%2Fsd_trainer_next-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "sd_trainer_next-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_trainer_next/sd_trainer_next-licyk-20260803-nightly.7z",
@@ -1928,6 +2229,16 @@
         ],
         "nightly": [
           {
+            "filename": "sd_webui-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_webui/sd_webui-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui%2Fsd_webui-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "sd_webui-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_webui/sd_webui-licyk-20260803-nightly.7z",
             "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui%2Fsd_webui-licyk-20260803-nightly.7z",
@@ -2046,6 +2357,16 @@
         ],
         "nightly": [
           {
+            "filename": "sd_webui_forge-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge%2Fsd_webui_forge-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "sd_webui_forge-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260803-nightly.7z",
             "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge%2Fsd_webui_forge-licyk-20260803-nightly.7z",
@@ -2152,6 +2473,16 @@
         "description": "Stable Diffusion WebUI Forge Neo 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，基于旧版 Stable Diffusion WebUI Forge 开发，精简了无用组件，更轻量。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "sd_webui_forge_neo-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge_neo%2Fsd_webui_forge_neo-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "sd_webui_forge_neo-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260803-nightly.7z",
@@ -2270,6 +2601,16 @@
         "stable": [],
         "nightly": [
           {
+            "filename": "sd_webui_forge_neo_rocm-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge_neo_rocm%2Fsd_webui_forge_neo_rocm-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "sd_webui_forge_neo_rocm-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-20260803-nightly.7z",
             "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge_neo_rocm%2Fsd_webui_forge_neo_rocm-licyk-20260803-nightly.7z",
@@ -2357,6 +2698,16 @@
         "stable": [],
         "nightly": [
           {
+            "filename": "sd_webui_forge_neo_xpu-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_webui_forge_neo_xpu/sd_webui_forge_neo_xpu-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge_neo_xpu%2Fsd_webui_forge_neo_xpu-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
+          {
             "filename": "sd_webui_forge_neo_xpu-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_webui_forge_neo_xpu/sd_webui_forge_neo_xpu-licyk-20260803-nightly.7z",
             "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge_neo_xpu%2Fsd_webui_forge_neo_xpu-licyk-20260803-nightly.7z",
@@ -2443,6 +2794,16 @@
         "description": "Stable Diffusion WebUI reForge 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，基于旧版 Stable Diffusion WebUI Forge 开发，插件兼容性比 Stable Diffusion WebUI Forge 好一点。",
         "stable": [],
         "nightly": [
+          {
+            "filename": "sd_webui_reforge-licyk-20260810-nightly.7z",
+            "path": "portable/nightly/sd_webui_reforge/sd_webui_reforge-licyk-20260810-nightly.7z",
+            "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_reforge%2Fsd_webui_reforge-licyk-20260810-nightly.7z",
+            "signature": "licyk",
+            "channel": "nightly",
+            "version": null,
+            "build_date": "20260810",
+            "extension": "7z"
+          },
           {
             "filename": "sd_webui_reforge-licyk-20260803-nightly.7z",
             "path": "portable/nightly/sd_webui_reforge/sd_webui_reforge-licyk-20260803-nightly.7z",
