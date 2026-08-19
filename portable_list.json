@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-18T22:37:37Z",
+  "update_time": "2026-08-19T22:37:00Z",
   "resources": {
     "huggingface": {
       "comfyui": {
@@ -138,16 +138,6 @@
             "version": null,
             "build_date": "20260727",
             "extension": "7z"
-          },
-          {
-            "filename": "fooocus-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/fooocus/fooocus-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/fooocus/fooocus-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
-            "extension": "7z"
           }
         ]
       },
@@ -194,16 +184,6 @@
             "channel": "nightly",
             "version": null,
             "build_date": "20260727",
-            "extension": "7z"
-          },
-          {
-            "filename": "invokeai-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/invokeai/invokeai-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/invokeai/invokeai-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
             "extension": "7z"
           }
         ]
@@ -263,16 +243,6 @@
             "version": null,
             "build_date": "20260727",
             "extension": "7z"
-          },
-          {
-            "filename": "kohya_gui-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/kohya_gui/kohya_gui-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/kohya_gui/kohya_gui-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
-            "extension": "7z"
           }
         ]
       },
@@ -320,16 +290,6 @@
             "version": null,
             "build_date": "20260727",
             "extension": "7z"
-          },
-          {
-            "filename": "musubi_tuner-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/musubi_tuner/musubi_tuner-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/musubi_tuner/musubi_tuner-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
-            "extension": "7z"
           }
         ]
       },
@@ -366,16 +326,6 @@
             "channel": "nightly",
             "version": null,
             "build_date": "20260727",
-            "extension": "7z"
-          },
-          {
-            "filename": "qwen_tts_webui-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/qwen_tts_webui/qwen_tts_webui-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/qwen_tts_webui/qwen_tts_webui-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
             "extension": "7z"
           }
         ]
@@ -424,16 +374,6 @@
             "version": null,
             "build_date": "20260727",
             "extension": "7z"
-          },
-          {
-            "filename": "sd_next-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/sd_next/sd_next-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_next/sd_next-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
-            "extension": "7z"
           }
         ]
       },
@@ -480,16 +420,6 @@
             "channel": "nightly",
             "version": null,
             "build_date": "20260727",
-            "extension": "7z"
-          },
-          {
-            "filename": "sd_scripts-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/sd_scripts/sd_scripts-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_scripts/sd_scripts-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
             "extension": "7z"
           }
         ]
@@ -549,16 +479,6 @@
             "version": null,
             "build_date": "20260727",
             "extension": "7z"
-          },
-          {
-            "filename": "sd_trainer-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/sd_trainer/sd_trainer-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_trainer/sd_trainer-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
-            "extension": "7z"
           }
         ]
       },
@@ -605,16 +525,6 @@
             "channel": "nightly",
             "version": null,
             "build_date": "20260727",
-            "extension": "7z"
-          },
-          {
-            "filename": "sd_trainer_next-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/sd_trainer_next/sd_trainer_next-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_trainer_next/sd_trainer_next-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
             "extension": "7z"
           }
         ]
@@ -674,16 +584,6 @@
             "version": null,
             "build_date": "20260727",
             "extension": "7z"
-          },
-          {
-            "filename": "sd_webui-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/sd_webui/sd_webui-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui/sd_webui-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
-            "extension": "7z"
           }
         ]
       },
@@ -742,16 +642,6 @@
             "version": null,
             "build_date": "20260727",
             "extension": "7z"
-          },
-          {
-            "filename": "sd_webui_forge-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge/sd_webui_forge-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
-            "extension": "7z"
           }
         ]
       },
@@ -798,16 +688,6 @@
             "channel": "nightly",
             "version": null,
             "build_date": "20260727",
-            "extension": "7z"
-          },
-          {
-            "filename": "sd_webui_forge_neo-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo/sd_webui_forge_neo-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
             "extension": "7z"
           }
         ]
@@ -856,16 +736,6 @@
             "version": null,
             "build_date": "20260727",
             "extension": "7z"
-          },
-          {
-            "filename": "sd_webui_forge_neo_rocm-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
-            "extension": "7z"
           }
         ]
       },
@@ -913,16 +783,6 @@
             "version": null,
             "build_date": "20260727",
             "extension": "7z"
-          },
-          {
-            "filename": "sd_webui_forge_neo_xpu-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/sd_webui_forge_neo_xpu/sd_webui_forge_neo_xpu-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo_xpu/sd_webui_forge_neo_xpu-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
-            "extension": "7z"
           }
         ]
       },
@@ -969,16 +829,6 @@
             "channel": "nightly",
             "version": null,
             "build_date": "20260727",
-            "extension": "7z"
-          },
-          {
-            "filename": "sd_webui_reforge-licyk-20260720-nightly.7z",
-            "path": "portable/nightly/sd_webui_reforge/sd_webui_reforge-licyk-20260720-nightly.7z",
-            "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_reforge/sd_webui_reforge-licyk-20260720-nightly.7z",
-            "signature": "licyk",
-            "channel": "nightly",
-            "version": null,
-            "build_date": "20260720",
             "extension": "7z"
           }
         ]
