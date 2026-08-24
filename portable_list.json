@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-24T03:10:14Z",
+  "update_time": "2026-08-24T22:40:22Z",
   "resources": {
     "huggingface": {
       "windows": {
@@ -202,6 +202,17 @@
           "description": "InvokeAI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，拥有最强大的画布系统，更适合作为辅助绘画工具。",
           "stable": [],
           "nightly": [
+            {
+              "filename": "invokeai-licyk-windows-20260824-nightly.7z",
+              "path": "portable/nightly/invokeai/invokeai-licyk-windows-20260824-nightly.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/invokeai/invokeai-licyk-windows-20260824-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20260824",
+              "extension": "7z"
+            },
             {
               "filename": "invokeai-licyk-windows-20260817-nightly.7z",
               "path": "portable/nightly/invokeai/invokeai-licyk-windows-20260817-nightly.7z",
@@ -1091,6 +1102,57 @@
             }
           ]
         }
+      },
+      "linux": {
+        "comfyui": {
+          "display_name": "ComfyUI (NVIDIA)",
+          "description": "ComfyUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，流程高度自定义，可玩性高，显存优化强，支持的模型丰富。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "comfyui-licyk-linux-20260825-nightly.tar.gz",
+              "path": "portable/nightly/comfyui/comfyui-licyk-linux-20260825-nightly.tar.gz",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/comfyui/comfyui-licyk-linux-20260825-nightly.tar.gz",
+              "signature": "licyk",
+              "platform": "linux",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20260825",
+              "extension": "tar.gz"
+            }
+          ]
+        }
+      },
+      "macos": {
+        "comfyui_mps": {
+          "display_name": "ComfyUI (Apple Silicon)",
+          "description": "ComfyUI 的 Apple Silicon 整合包，使用 MPS 版 PyTorch，流程高度自定义，可玩性高。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "comfyui_mps-licyk-macos-20260825-nightly.tar.gz",
+              "path": "portable/nightly/comfyui_mps/comfyui_mps-licyk-macos-20260825-nightly.tar.gz",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/comfyui_mps/comfyui_mps-licyk-macos-20260825-nightly.tar.gz",
+              "signature": "licyk",
+              "platform": "macos",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20260825",
+              "extension": "tar.gz"
+            },
+            {
+              "filename": "comfyui_mps-licyk-macos-20260824-nightly.tar.gz",
+              "path": "portable/nightly/comfyui_mps/comfyui_mps-licyk-macos-20260824-nightly.tar.gz",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/comfyui_mps/comfyui_mps-licyk-macos-20260824-nightly.tar.gz",
+              "signature": "licyk",
+              "platform": "macos",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20260824",
+              "extension": "tar.gz"
+            }
+          ]
+        }
       }
     },
     "modelscope": {
@@ -1294,6 +1356,17 @@
           "description": "InvokeAI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，拥有最强大的画布系统，更适合作为辅助绘画工具。",
           "stable": [],
           "nightly": [
+            {
+              "filename": "invokeai-licyk-windows-20260824-nightly.7z",
+              "path": "portable/nightly/invokeai/invokeai-licyk-windows-20260824-nightly.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Finvokeai%2Finvokeai-licyk-windows-20260824-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20260824",
+              "extension": "7z"
+            },
             {
               "filename": "invokeai-licyk-windows-20260817-nightly.7z",
               "path": "portable/nightly/invokeai/invokeai-licyk-windows-20260817-nightly.7z",
@@ -2180,6 +2253,57 @@
               "version": null,
               "build_date": "20260727",
               "extension": "7z"
+            }
+          ]
+        }
+      },
+      "linux": {
+        "comfyui": {
+          "display_name": "ComfyUI (NVIDIA)",
+          "description": "ComfyUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，流程高度自定义，可玩性高，显存优化强，支持的模型丰富。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "comfyui-licyk-linux-20260825-nightly.tar.gz",
+              "path": "portable/nightly/comfyui/comfyui-licyk-linux-20260825-nightly.tar.gz",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui%2Fcomfyui-licyk-linux-20260825-nightly.tar.gz",
+              "signature": "licyk",
+              "platform": "linux",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20260825",
+              "extension": "tar.gz"
+            }
+          ]
+        }
+      },
+      "macos": {
+        "comfyui_mps": {
+          "display_name": "ComfyUI (Apple Silicon)",
+          "description": "ComfyUI 的 Apple Silicon 整合包，使用 MPS 版 PyTorch，流程高度自定义，可玩性高。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "comfyui_mps-licyk-macos-20260825-nightly.tar.gz",
+              "path": "portable/nightly/comfyui_mps/comfyui_mps-licyk-macos-20260825-nightly.tar.gz",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui_mps%2Fcomfyui_mps-licyk-macos-20260825-nightly.tar.gz",
+              "signature": "licyk",
+              "platform": "macos",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20260825",
+              "extension": "tar.gz"
+            },
+            {
+              "filename": "comfyui_mps-licyk-macos-20260824-nightly.tar.gz",
+              "path": "portable/nightly/comfyui_mps/comfyui_mps-licyk-macos-20260824-nightly.tar.gz",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui_mps%2Fcomfyui_mps-licyk-macos-20260824-nightly.tar.gz",
+              "signature": "licyk",
+              "platform": "macos",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20260824",
+              "extension": "tar.gz"
             }
           ]
         }
