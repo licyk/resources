@@ -21,6 +21,10 @@
                     "https://huggingface.co/licyk/sd-lora/resolve/main/anima/style/anima-v1-cloudyman_2-000032.safetensors"
                 ],
                 [
+                    "anima/style/anima-v1-gomalio_y_1-000034.safetensors",
+                    "https://huggingface.co/licyk/sd-lora/resolve/main/anima/style/anima-v1-gomalio_y_1-000034.safetensors"
+                ],
+                [
                     "anima/style/anima-v1-ibara_riato_1-000036.safetensors",
                     "https://huggingface.co/licyk/sd-lora/resolve/main/anima/style/anima-v1-ibara_riato_1-000036.safetensors"
                 ],
@@ -6169,6 +6173,10 @@
                 [
                     "anima/style/anima-v1-cloudyman_2-000032.safetensors",
                     "https://huggingface.co/licyk/lora_for_invokeai/resolve/main/anima/style/anima-v1-cloudyman_2-000032.safetensors"
+                ],
+                [
+                    "anima/style/anima-v1-gomalio_y_1-000034.safetensors",
+                    "https://huggingface.co/licyk/lora_for_invokeai/resolve/main/anima/style/anima-v1-gomalio_y_1-000034.safetensors"
                 ],
                 [
                     "anima/style/anima-v1-ibara_riato_1-000036.safetensors",
