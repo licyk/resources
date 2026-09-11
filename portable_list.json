@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-10T00:09:50Z",
+  "update_time": "2026-09-11T00:05:49Z",
   "resources": {
     "huggingface": {
       "windows": {
@@ -338,6 +338,17 @@
           "description": "Musubi Tuner 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，支持训练 Hunyuan，Wan 等视频生成模型。",
           "stable": [],
           "nightly": [
+            {
+              "filename": "musubi_tuner_cuda-licyk-windows-20260910-nightly.7z",
+              "path": "portable/nightly/musubi_tuner_cuda/musubi_tuner_cuda-licyk-windows-20260910-nightly.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/musubi_tuner_cuda/musubi_tuner_cuda-licyk-windows-20260910-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20260910",
+              "extension": "7z"
+            },
             {
               "filename": "musubi_tuner_cuda-licyk-windows-20260831-nightly.7z",
               "path": "portable/nightly/musubi_tuner_cuda/musubi_tuner_cuda-licyk-windows-20260831-nightly.7z",
@@ -1404,6 +1415,17 @@
           "description": "Musubi Tuner 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，支持训练 Hunyuan，Wan 等视频生成模型。",
           "stable": [],
           "nightly": [
+            {
+              "filename": "musubi_tuner_cuda-licyk-windows-20260910-nightly.7z",
+              "path": "portable/nightly/musubi_tuner_cuda/musubi_tuner_cuda-licyk-windows-20260910-nightly.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fmusubi_tuner_cuda%2Fmusubi_tuner_cuda-licyk-windows-20260910-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20260910",
+              "extension": "7z"
+            },
             {
               "filename": "musubi_tuner_cuda-licyk-windows-20260831-nightly.7z",
               "path": "portable/nightly/musubi_tuner_cuda/musubi_tuner_cuda-licyk-windows-20260831-nightly.7z",
