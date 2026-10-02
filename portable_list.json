@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-01T01:15:56Z",
+  "update_time": "2026-10-02T01:38:53Z",
   "resources": {
     "huggingface": {
       "windows": {
@@ -121,6 +121,17 @@
           "description": "ComfyUI 的 Intel 显卡整合包，使用 XPU 版 PyTorch，流程高度自定义，可玩性高。",
           "stable": [],
           "nightly": [
+            {
+              "filename": "comfyui_xpu-licyk-windows-20261001-nightly.7z",
+              "path": "portable/nightly/comfyui_xpu/comfyui_xpu-licyk-windows-20261001-nightly.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/comfyui_xpu/comfyui_xpu-licyk-windows-20261001-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261001",
+              "extension": "7z"
+            },
             {
               "filename": "comfyui_xpu-licyk-windows-20260928-nightly.7z",
               "path": "portable/nightly/comfyui_xpu/comfyui_xpu-licyk-windows-20260928-nightly.7z",
@@ -644,6 +655,17 @@
             }
           ],
           "nightly": [
+            {
+              "filename": "sd_webui_cuda-licyk-windows-20261001-nightly.7z",
+              "path": "portable/nightly/sd_webui_cuda/sd_webui_cuda-licyk-windows-20261001-nightly.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_cuda/sd_webui_cuda-licyk-windows-20261001-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261001",
+              "extension": "7z"
+            },
             {
               "filename": "sd_webui_cuda-licyk-windows-20260928-nightly.7z",
               "path": "portable/nightly/sd_webui_cuda/sd_webui_cuda-licyk-windows-20260928-nightly.7z",
@@ -1208,6 +1230,17 @@
           "stable": [],
           "nightly": [
             {
+              "filename": "comfyui_xpu-licyk-windows-20261001-nightly.7z",
+              "path": "portable/nightly/comfyui_xpu/comfyui_xpu-licyk-windows-20261001-nightly.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui_xpu%2Fcomfyui_xpu-licyk-windows-20261001-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261001",
+              "extension": "7z"
+            },
+            {
               "filename": "comfyui_xpu-licyk-windows-20260928-nightly.7z",
               "path": "portable/nightly/comfyui_xpu/comfyui_xpu-licyk-windows-20260928-nightly.7z",
               "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui_xpu%2Fcomfyui_xpu-licyk-windows-20260928-nightly.7z",
@@ -1730,6 +1763,17 @@
             }
           ],
           "nightly": [
+            {
+              "filename": "sd_webui_cuda-licyk-windows-20261001-nightly.7z",
+              "path": "portable/nightly/sd_webui_cuda/sd_webui_cuda-licyk-windows-20261001-nightly.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_cuda%2Fsd_webui_cuda-licyk-windows-20261001-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261001",
+              "extension": "7z"
+            },
             {
               "filename": "sd_webui_cuda-licyk-windows-20260928-nightly.7z",
               "path": "portable/nightly/sd_webui_cuda/sd_webui_cuda-licyk-windows-20260928-nightly.7z",
