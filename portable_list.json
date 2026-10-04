@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-04T00:34:12Z",
+  "update_time": "2026-10-04T15:30:00Z",
   "resources": {
     "huggingface": {
       "windows": {
@@ -441,6 +441,24 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20260907",
+              "extension": "7z"
+            }
+          ]
+        },
+        "qwen_tts_webui_rocm": {
+          "display_name": "Qwen TTS WebUI (AMD)",
+          "description": "Qwen TTS WebUI 的 AMD 显卡整合包，使用 ROCm 版 PyTorch，支持使用 Qwen3 TTS 生成语音。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "qwen_tts_webui_rocm-licyk-windows-20261004-nightly.7z",
+              "path": "portable/nightly/qwen_tts_webui_rocm/qwen_tts_webui_rocm-licyk-windows-20261004-nightly.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/qwen_tts_webui_rocm/qwen_tts_webui_rocm-licyk-windows-20261004-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261004",
               "extension": "7z"
             }
           ]
@@ -1538,6 +1556,24 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20260907",
+              "extension": "7z"
+            }
+          ]
+        },
+        "qwen_tts_webui_rocm": {
+          "display_name": "Qwen TTS WebUI (AMD)",
+          "description": "Qwen TTS WebUI 的 AMD 显卡整合包，使用 ROCm 版 PyTorch，支持使用 Qwen3 TTS 生成语音。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "qwen_tts_webui_rocm-licyk-windows-20261004-nightly.7z",
+              "path": "portable/nightly/qwen_tts_webui_rocm/qwen_tts_webui_rocm-licyk-windows-20261004-nightly.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fqwen_tts_webui_rocm%2Fqwen_tts_webui_rocm-licyk-windows-20261004-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261004",
               "extension": "7z"
             }
           ]
