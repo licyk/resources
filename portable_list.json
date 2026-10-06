@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-05T00:51:52Z",
+  "update_time": "2026-10-06T01:58:14Z",
   "resources": {
     "huggingface": {
       "windows": {
@@ -558,6 +558,42 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20261004",
+              "extension": "7z"
+            }
+          ]
+        },
+        "rvc_next_webui_cuda": {
+          "display_name": "RVC Next WebUI (NVIDIA)",
+          "description": "RVC Next WebUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，支持 RVC 语音转换、模型训练和实时变声。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "rvc_next_webui_cuda-licyk-windows-20261005-nightly.7z",
+              "path": "portable/nightly/rvc_next_webui_cuda/rvc_next_webui_cuda-licyk-windows-20261005-nightly.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/rvc_next_webui_cuda/rvc_next_webui_cuda-licyk-windows-20261005-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261005",
+              "extension": "7z"
+            }
+          ]
+        },
+        "rvc_next_webui_rocm": {
+          "display_name": "RVC Next WebUI (AMD)",
+          "description": "RVC Next WebUI 的 AMD 显卡整合包，使用 ROCm 版 PyTorch，支持 RVC 语音转换、模型训练和实时变声。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "rvc_next_webui_rocm-licyk-windows-20261005-nightly.7z",
+              "path": "portable/nightly/rvc_next_webui_rocm/rvc_next_webui_rocm-licyk-windows-20261005-nightly.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/rvc_next_webui_rocm/rvc_next_webui_rocm-licyk-windows-20261005-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261005",
               "extension": "7z"
             }
           ]
@@ -1904,6 +1940,42 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20261004",
+              "extension": "7z"
+            }
+          ]
+        },
+        "rvc_next_webui_cuda": {
+          "display_name": "RVC Next WebUI (NVIDIA)",
+          "description": "RVC Next WebUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，支持 RVC 语音转换、模型训练和实时变声。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "rvc_next_webui_cuda-licyk-windows-20261005-nightly.7z",
+              "path": "portable/nightly/rvc_next_webui_cuda/rvc_next_webui_cuda-licyk-windows-20261005-nightly.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Frvc_next_webui_cuda%2Frvc_next_webui_cuda-licyk-windows-20261005-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261005",
+              "extension": "7z"
+            }
+          ]
+        },
+        "rvc_next_webui_rocm": {
+          "display_name": "RVC Next WebUI (AMD)",
+          "description": "RVC Next WebUI 的 AMD 显卡整合包，使用 ROCm 版 PyTorch，支持 RVC 语音转换、模型训练和实时变声。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "rvc_next_webui_rocm-licyk-windows-20261005-nightly.7z",
+              "path": "portable/nightly/rvc_next_webui_rocm/rvc_next_webui_rocm-licyk-windows-20261005-nightly.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Frvc_next_webui_rocm%2Frvc_next_webui_rocm-licyk-windows-20261005-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261005",
               "extension": "7z"
             }
           ]
