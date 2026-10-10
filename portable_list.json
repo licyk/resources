@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-09T02:05:37Z",
+  "update_time": "2026-10-10T01:44:15Z",
   "resources": {
     "huggingface": {
       "windows": {
@@ -59,6 +59,17 @@
           "description": "ComfyUI 的 AMD 显卡整合包，使用 ROCm 版 PyTorch，流程高度自定义，可玩性高。",
           "stable": [],
           "nightly": [
+            {
+              "filename": "comfyui_rocm-licyk-windows-20261009-nightly.7z",
+              "path": "portable/nightly/comfyui_rocm/comfyui_rocm-licyk-windows-20261009-nightly.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/comfyui_rocm/comfyui_rocm-licyk-windows-20261009-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261009",
+              "extension": "7z"
+            },
             {
               "filename": "comfyui_rocm-licyk-windows-20261006-nightly.7z",
               "path": "portable/nightly/comfyui_rocm/comfyui_rocm-licyk-windows-20261006-nightly.7z",
@@ -194,18 +205,29 @@
           "description": "Fooocus 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，化繁为简，更专注于提示词书写。",
           "stable": [
             {
-              "filename": "fooocus_cuda-licyk-windows-v3.7.7z",
-              "path": "portable/stable/fooocus_cuda/fooocus_cuda-licyk-windows-v3.7.7z",
-              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/fooocus_cuda/fooocus_cuda-licyk-windows-v3.7.7z",
+              "filename": "fooocus_cuda-licyk-windows-v3.8.7z",
+              "path": "portable/stable/fooocus_cuda/fooocus_cuda-licyk-windows-v3.8.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/fooocus_cuda/fooocus_cuda-licyk-windows-v3.8.7z",
               "signature": "licyk",
               "platform": "windows",
               "channel": "stable",
-              "version": "3.7",
+              "version": "3.8",
               "build_date": null,
               "extension": "7z"
             }
           ],
           "nightly": [
+            {
+              "filename": "fooocus_cuda-licyk-windows-20261009-nightly.7z",
+              "path": "portable/nightly/fooocus_cuda/fooocus_cuda-licyk-windows-20261009-nightly.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/fooocus_cuda/fooocus_cuda-licyk-windows-20261009-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261009",
+              "extension": "7z"
+            },
             {
               "filename": "fooocus_cuda-licyk-windows-20261005-nightly.7z",
               "path": "portable/nightly/fooocus_cuda/fooocus_cuda-licyk-windows-20261005-nightly.7z",
@@ -741,13 +763,13 @@
           "description": "Stable Diffusion WebUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，上手简单，操作方便，适合入门使用。",
           "stable": [
             {
-              "filename": "sd_webui_cuda-licyk-windows-v3.7.7z",
-              "path": "portable/stable/sd_webui_cuda/sd_webui_cuda-licyk-windows-v3.7.7z",
-              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/sd_webui_cuda/sd_webui_cuda-licyk-windows-v3.7.7z",
+              "filename": "sd_webui_cuda-licyk-windows-v3.8.7z",
+              "path": "portable/stable/sd_webui_cuda/sd_webui_cuda-licyk-windows-v3.8.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/sd_webui_cuda/sd_webui_cuda-licyk-windows-v3.8.7z",
               "signature": "licyk",
               "platform": "windows",
               "channel": "stable",
-              "version": "3.7",
+              "version": "3.8",
               "build_date": null,
               "extension": "7z"
             }
@@ -815,13 +837,13 @@
           "description": "Stable Diffusion WebUI Forge 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，基于 Stable Diffusion WebUI，有更强的显存优化，多了 FLUX 模型支持。",
           "stable": [
             {
-              "filename": "sd_webui_forge_cuda-licyk-windows-v3.7.7z",
-              "path": "portable/stable/sd_webui_forge_cuda/sd_webui_forge_cuda-licyk-windows-v3.7.7z",
-              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/sd_webui_forge_cuda/sd_webui_forge_cuda-licyk-windows-v3.7.7z",
+              "filename": "sd_webui_forge_cuda-licyk-windows-v3.8.7z",
+              "path": "portable/stable/sd_webui_forge_cuda/sd_webui_forge_cuda-licyk-windows-v3.8.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/stable/sd_webui_forge_cuda/sd_webui_forge_cuda-licyk-windows-v3.8.7z",
               "signature": "licyk",
               "platform": "windows",
               "channel": "stable",
-              "version": "3.7",
+              "version": "3.8",
               "build_date": null,
               "extension": "7z"
             }
@@ -929,6 +951,17 @@
           "description": "Stable Diffusion WebUI Forge Neo 的 AMD 显卡整合包，使用 ROCm 版 PyTorch，基于旧版 Stable Diffusion WebUI Forge 开发，精简了无用组件，更轻量。",
           "stable": [],
           "nightly": [
+            {
+              "filename": "sd_webui_forge_neo_rocm-licyk-windows-20261009-nightly.7z",
+              "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-windows-20261009-nightly.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-windows-20261009-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261009",
+              "extension": "7z"
+            },
             {
               "filename": "sd_webui_forge_neo_rocm-licyk-windows-20261006-nightly.7z",
               "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-windows-20261006-nightly.7z",
@@ -1266,6 +1299,17 @@
           "stable": [],
           "nightly": [
             {
+              "filename": "comfyui_rocm-licyk-windows-20261009-nightly.7z",
+              "path": "portable/nightly/comfyui_rocm/comfyui_rocm-licyk-windows-20261009-nightly.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui_rocm%2Fcomfyui_rocm-licyk-windows-20261009-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261009",
+              "extension": "7z"
+            },
+            {
               "filename": "comfyui_rocm-licyk-windows-20261006-nightly.7z",
               "path": "portable/nightly/comfyui_rocm/comfyui_rocm-licyk-windows-20261006-nightly.7z",
               "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui_rocm%2Fcomfyui_rocm-licyk-windows-20261006-nightly.7z",
@@ -1400,18 +1444,29 @@
           "description": "Fooocus 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，化繁为简，更专注于提示词书写。",
           "stable": [
             {
-              "filename": "fooocus_cuda-licyk-windows-v3.7.7z",
-              "path": "portable/stable/fooocus_cuda/fooocus_cuda-licyk-windows-v3.7.7z",
-              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Ffooocus_cuda%2Ffooocus_cuda-licyk-windows-v3.7.7z",
+              "filename": "fooocus_cuda-licyk-windows-v3.8.7z",
+              "path": "portable/stable/fooocus_cuda/fooocus_cuda-licyk-windows-v3.8.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Ffooocus_cuda%2Ffooocus_cuda-licyk-windows-v3.8.7z",
               "signature": "licyk",
               "platform": "windows",
               "channel": "stable",
-              "version": "3.7",
+              "version": "3.8",
               "build_date": null,
               "extension": "7z"
             }
           ],
           "nightly": [
+            {
+              "filename": "fooocus_cuda-licyk-windows-20261009-nightly.7z",
+              "path": "portable/nightly/fooocus_cuda/fooocus_cuda-licyk-windows-20261009-nightly.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Ffooocus_cuda%2Ffooocus_cuda-licyk-windows-20261009-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261009",
+              "extension": "7z"
+            },
             {
               "filename": "fooocus_cuda-licyk-windows-20261005-nightly.7z",
               "path": "portable/nightly/fooocus_cuda/fooocus_cuda-licyk-windows-20261005-nightly.7z",
@@ -1947,13 +2002,13 @@
           "description": "Stable Diffusion WebUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，上手简单，操作方便，适合入门使用。",
           "stable": [
             {
-              "filename": "sd_webui_cuda-licyk-windows-v3.7.7z",
-              "path": "portable/stable/sd_webui_cuda/sd_webui_cuda-licyk-windows-v3.7.7z",
-              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Fsd_webui_cuda%2Fsd_webui_cuda-licyk-windows-v3.7.7z",
+              "filename": "sd_webui_cuda-licyk-windows-v3.8.7z",
+              "path": "portable/stable/sd_webui_cuda/sd_webui_cuda-licyk-windows-v3.8.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Fsd_webui_cuda%2Fsd_webui_cuda-licyk-windows-v3.8.7z",
               "signature": "licyk",
               "platform": "windows",
               "channel": "stable",
-              "version": "3.7",
+              "version": "3.8",
               "build_date": null,
               "extension": "7z"
             }
@@ -2021,13 +2076,13 @@
           "description": "Stable Diffusion WebUI Forge 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，基于 Stable Diffusion WebUI，有更强的显存优化，多了 FLUX 模型支持。",
           "stable": [
             {
-              "filename": "sd_webui_forge_cuda-licyk-windows-v3.7.7z",
-              "path": "portable/stable/sd_webui_forge_cuda/sd_webui_forge_cuda-licyk-windows-v3.7.7z",
-              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Fsd_webui_forge_cuda%2Fsd_webui_forge_cuda-licyk-windows-v3.7.7z",
+              "filename": "sd_webui_forge_cuda-licyk-windows-v3.8.7z",
+              "path": "portable/stable/sd_webui_forge_cuda/sd_webui_forge_cuda-licyk-windows-v3.8.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fstable%2Fsd_webui_forge_cuda%2Fsd_webui_forge_cuda-licyk-windows-v3.8.7z",
               "signature": "licyk",
               "platform": "windows",
               "channel": "stable",
-              "version": "3.7",
+              "version": "3.8",
               "build_date": null,
               "extension": "7z"
             }
@@ -2135,6 +2190,17 @@
           "description": "Stable Diffusion WebUI Forge Neo 的 AMD 显卡整合包，使用 ROCm 版 PyTorch，基于旧版 Stable Diffusion WebUI Forge 开发，精简了无用组件，更轻量。",
           "stable": [],
           "nightly": [
+            {
+              "filename": "sd_webui_forge_neo_rocm-licyk-windows-20261009-nightly.7z",
+              "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-windows-20261009-nightly.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge_neo_rocm%2Fsd_webui_forge_neo_rocm-licyk-windows-20261009-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261009",
+              "extension": "7z"
+            },
             {
               "filename": "sd_webui_forge_neo_rocm-licyk-windows-20261006-nightly.7z",
               "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-windows-20261006-nightly.7z",
