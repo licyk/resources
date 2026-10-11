@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-10T01:44:15Z",
+  "update_time": "2026-10-11T00:57:26Z",
   "resources": {
     "huggingface": {
       "windows": {
@@ -423,17 +423,6 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20260914",
-              "extension": "7z"
-            },
-            {
-              "filename": "musubi_tuner_cuda-licyk-windows-20260910-nightly.7z",
-              "path": "portable/nightly/musubi_tuner_cuda/musubi_tuner_cuda-licyk-windows-20260910-nightly.7z",
-              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/musubi_tuner_cuda/musubi_tuner_cuda-licyk-windows-20260910-nightly.7z",
-              "signature": "licyk",
-              "platform": "windows",
-              "channel": "nightly",
-              "version": null,
-              "build_date": "20260910",
               "extension": "7z"
             }
           ]
@@ -1662,17 +1651,6 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20260914",
-              "extension": "7z"
-            },
-            {
-              "filename": "musubi_tuner_cuda-licyk-windows-20260910-nightly.7z",
-              "path": "portable/nightly/musubi_tuner_cuda/musubi_tuner_cuda-licyk-windows-20260910-nightly.7z",
-              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fmusubi_tuner_cuda%2Fmusubi_tuner_cuda-licyk-windows-20260910-nightly.7z",
-              "signature": "licyk",
-              "platform": "windows",
-              "channel": "nightly",
-              "version": null,
-              "build_date": "20260910",
               "extension": "7z"
             }
           ]
