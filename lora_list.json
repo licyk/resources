@@ -351,6 +351,12 @@
                 "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
                 "version": "v1.1",
                 "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-Blue_Archive_Official_8-000038.safetensors"
+            },
+            {
+                "model_name": "Anima 1.0",
+                "model_link": "https://huggingface.co/circlestone-labs/Anima",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/anima/style/anima-v1-Blue_Archive_Official_1.safetensors"
             }
         ]
     },
@@ -1143,6 +1149,12 @@
                 "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
                 "version": "v1.2",
                 "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-pvc_4-000034.safetensors"
+            },
+            {
+                "model_name": "Anima 1.0",
+                "model_link": "https://huggingface.co/circlestone-labs/Anima",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/anima/style/anima-v1-pvc_1-000037.safetensors"
             }
         ]
     },
