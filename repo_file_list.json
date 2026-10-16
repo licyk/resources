@@ -10465,6 +10465,18 @@
                     "https://www.modelscope.cn/api/v1/models/licyks/comfyui-model/repo?Revision=master&FilePath=Lumina_Image_2.0%2Flumina_2_model_bf16.safetensors"
                 ],
                 [
+                    "MOSS-Image-SFT/moss_image_sft_int8_convrot.safetensors",
+                    "https://www.modelscope.cn/api/v1/models/licyks/comfyui-model/repo?Revision=master&FilePath=MOSS-Image-SFT%2Fmoss_image_sft_int8_convrot.safetensors"
+                ],
+                [
+                    "MOSS-Image-SFT/moss_image_vae_bf16.safetensors",
+                    "https://www.modelscope.cn/api/v1/models/licyks/comfyui-model/repo?Revision=master&FilePath=MOSS-Image-SFT%2Fmoss_image_vae_bf16.safetensors"
+                ],
+                [
+                    "MOSS-Image-SFT/qwen3.5_9b_moss_image_sft_w4a8_gptq.safetensors",
+                    "https://www.modelscope.cn/api/v1/models/licyks/comfyui-model/repo?Revision=master&FilePath=MOSS-Image-SFT%2Fqwen3.5_9b_moss_image_sft_w4a8_gptq.safetensors"
+                ],
+                [
                     "Mage-Flow/mage_flow_edit_turbo_int8_convrot.safetensors",
                     "https://www.modelscope.cn/api/v1/models/licyks/comfyui-model/repo?Revision=master&FilePath=Mage-Flow%2Fmage_flow_edit_turbo_int8_convrot.safetensors"
                 ],
@@ -10635,6 +10647,14 @@
                 [
                     "Qwen-Image-2.1/qwen_image_2.1_int8_convrot.safetensors",
                     "https://www.modelscope.cn/api/v1/models/licyks/comfyui-model/repo?Revision=master&FilePath=Qwen-Image-2.1%2Fqwen_image_2.1_int8_convrot.safetensors"
+                ],
+                [
+                    "Qwen-Image-2.1/qwen_image_2.1_turbo_bf16.safetensors",
+                    "https://www.modelscope.cn/api/v1/models/licyks/comfyui-model/repo?Revision=master&FilePath=Qwen-Image-2.1%2Fqwen_image_2.1_turbo_bf16.safetensors"
+                ],
+                [
+                    "Qwen-Image-2.1/qwen_image_2.1_turbo_int8_convrot.safetensors",
+                    "https://www.modelscope.cn/api/v1/models/licyks/comfyui-model/repo?Revision=master&FilePath=Qwen-Image-2.1%2Fqwen_image_2.1_turbo_int8_convrot.safetensors"
                 ],
                 [
                     "Qwen-Image-2.1/qwen_image_2.1_vae_bf16.safetensors",
