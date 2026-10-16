@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-16T00:20:40Z",
+  "update_time": "2026-10-16T10:36:28Z",
   "resources": {
     "huggingface": {
       "windows": {
@@ -372,6 +372,42 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20260921",
+              "extension": "7z"
+            }
+          ]
+        },
+        "mizuoto_tts_webui_cuda": {
+          "display_name": "Mizuoto TTS WebUI (NVIDIA)",
+          "description": "Mizuoto TTS WebUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，支持使用多种 TTS 引擎生成语音。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "mizuoto_tts_webui_cuda-licyk-windows-20261016-nightly.7z",
+              "path": "portable/nightly/mizuoto_tts_webui_cuda/mizuoto_tts_webui_cuda-licyk-windows-20261016-nightly.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/mizuoto_tts_webui_cuda/mizuoto_tts_webui_cuda-licyk-windows-20261016-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261016",
+              "extension": "7z"
+            }
+          ]
+        },
+        "mizuoto_tts_webui_rocm": {
+          "display_name": "Mizuoto TTS WebUI (AMD)",
+          "description": "Mizuoto TTS WebUI 的 AMD 显卡整合包，使用 ROCm 版 PyTorch，支持使用多种 TTS 引擎生成语音。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "mizuoto_tts_webui_rocm-licyk-windows-20261016-nightly.7z",
+              "path": "portable/nightly/mizuoto_tts_webui_rocm/mizuoto_tts_webui_rocm-licyk-windows-20261016-nightly.7z",
+              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/mizuoto_tts_webui_rocm/mizuoto_tts_webui_rocm-licyk-windows-20261016-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261016",
               "extension": "7z"
             }
           ]
@@ -1633,6 +1669,42 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20260921",
+              "extension": "7z"
+            }
+          ]
+        },
+        "mizuoto_tts_webui_cuda": {
+          "display_name": "Mizuoto TTS WebUI (NVIDIA)",
+          "description": "Mizuoto TTS WebUI 的 NVIDIA 显卡整合包，使用 CUDA 版 PyTorch，支持使用多种 TTS 引擎生成语音。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "mizuoto_tts_webui_cuda-licyk-windows-20261016-nightly.7z",
+              "path": "portable/nightly/mizuoto_tts_webui_cuda/mizuoto_tts_webui_cuda-licyk-windows-20261016-nightly.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fmizuoto_tts_webui_cuda%2Fmizuoto_tts_webui_cuda-licyk-windows-20261016-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261016",
+              "extension": "7z"
+            }
+          ]
+        },
+        "mizuoto_tts_webui_rocm": {
+          "display_name": "Mizuoto TTS WebUI (AMD)",
+          "description": "Mizuoto TTS WebUI 的 AMD 显卡整合包，使用 ROCm 版 PyTorch，支持使用多种 TTS 引擎生成语音。",
+          "stable": [],
+          "nightly": [
+            {
+              "filename": "mizuoto_tts_webui_rocm-licyk-windows-20261016-nightly.7z",
+              "path": "portable/nightly/mizuoto_tts_webui_rocm/mizuoto_tts_webui_rocm-licyk-windows-20261016-nightly.7z",
+              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fmizuoto_tts_webui_rocm%2Fmizuoto_tts_webui_rocm-licyk-windows-20261016-nightly.7z",
+              "signature": "licyk",
+              "platform": "windows",
+              "channel": "nightly",
+              "version": null,
+              "build_date": "20261016",
               "extension": "7z"
             }
           ]
