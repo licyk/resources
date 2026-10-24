@@ -33,6 +33,10 @@
                     "https://huggingface.co/licyk/sd-lora/resolve/main/anima/style/anima-v1-ibara_riato_1-000036.safetensors"
                 ],
                 [
+                    "anima/style/anima-v1-matchach_1-000031.safetensors",
+                    "https://huggingface.co/licyk/sd-lora/resolve/main/anima/style/anima-v1-matchach_1-000031.safetensors"
+                ],
+                [
                     "anima/style/anima-v1-ogipote_1-000035.safetensors",
                     "https://huggingface.co/licyk/sd-lora/resolve/main/anima/style/anima-v1-ogipote_1-000035.safetensors"
                 ],
@@ -6193,6 +6197,10 @@
                 [
                     "anima/style/anima-v1-ibara_riato_1-000036.safetensors",
                     "https://huggingface.co/licyk/lora_for_invokeai/resolve/main/anima/style/anima-v1-ibara_riato_1-000036.safetensors"
+                ],
+                [
+                    "anima/style/anima-v1-matchach_1-000031.safetensors",
+                    "https://huggingface.co/licyk/lora_for_invokeai/resolve/main/anima/style/anima-v1-matchach_1-000031.safetensors"
                 ],
                 [
                     "anima/style/anima-v1-ogipote_1-000035.safetensors",
