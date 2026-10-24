@@ -816,6 +816,12 @@
                 "model_link": "https://civitai.com/models/795765/illustrious-xl?modelVersionId=889818",
                 "version": "v1.2",
                 "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/sdxl/style/ill-xl-01-matchach_4-000034.safetensors"
+            },
+            {
+                "model_name": "Anima 1.0",
+                "model_link": "https://huggingface.co/circlestone-labs/Anima",
+                "version": "v1.0",
+                "download_link": "https://huggingface.co/licyk/sd-lora/resolve/main/anima/style/anima-v1-matchach_1-000031.safetensors"
             }
         ]
     },
