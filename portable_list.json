@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-31T01:33:11Z",
+  "update_time": "2026-11-01T01:04:46Z",
   "resources": {
     "huggingface": {
       "windows": {
@@ -124,17 +124,6 @@
               "version": null,
               "build_date": "20261005",
               "extension": "7z"
-            },
-            {
-              "filename": "comfyui_rocm-licyk-windows-20261001-nightly.7z",
-              "path": "portable/nightly/comfyui_rocm/comfyui_rocm-licyk-windows-20261001-nightly.7z",
-              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/comfyui_rocm/comfyui_rocm-licyk-windows-20261001-nightly.7z",
-              "signature": "licyk",
-              "platform": "windows",
-              "channel": "nightly",
-              "version": null,
-              "build_date": "20261001",
-              "extension": "7z"
             }
           ]
         },
@@ -185,17 +174,6 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20261005",
-              "extension": "7z"
-            },
-            {
-              "filename": "comfyui_xpu-licyk-windows-20261001-nightly.7z",
-              "path": "portable/nightly/comfyui_xpu/comfyui_xpu-licyk-windows-20261001-nightly.7z",
-              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/comfyui_xpu/comfyui_xpu-licyk-windows-20261001-nightly.7z",
-              "signature": "licyk",
-              "platform": "windows",
-              "channel": "nightly",
-              "version": null,
-              "build_date": "20261001",
               "extension": "7z"
             }
           ]
@@ -986,17 +964,6 @@
               "version": null,
               "build_date": "20261005",
               "extension": "7z"
-            },
-            {
-              "filename": "sd_webui_cuda-licyk-windows-20261001-nightly.7z",
-              "path": "portable/nightly/sd_webui_cuda/sd_webui_cuda-licyk-windows-20261001-nightly.7z",
-              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_cuda/sd_webui_cuda-licyk-windows-20261001-nightly.7z",
-              "signature": "licyk",
-              "platform": "windows",
-              "channel": "nightly",
-              "version": null,
-              "build_date": "20261001",
-              "extension": "7z"
             }
           ]
         },
@@ -1183,17 +1150,6 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20261005",
-              "extension": "7z"
-            },
-            {
-              "filename": "sd_webui_forge_neo_rocm-licyk-windows-20261001-nightly.7z",
-              "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-windows-20261001-nightly.7z",
-              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-windows-20261001-nightly.7z",
-              "signature": "licyk",
-              "platform": "windows",
-              "channel": "nightly",
-              "version": null,
-              "build_date": "20261001",
               "extension": "7z"
             }
           ]
@@ -1531,17 +1487,6 @@
               "version": null,
               "build_date": "20261005",
               "extension": "7z"
-            },
-            {
-              "filename": "comfyui_rocm-licyk-windows-20261001-nightly.7z",
-              "path": "portable/nightly/comfyui_rocm/comfyui_rocm-licyk-windows-20261001-nightly.7z",
-              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui_rocm%2Fcomfyui_rocm-licyk-windows-20261001-nightly.7z",
-              "signature": "licyk",
-              "platform": "windows",
-              "channel": "nightly",
-              "version": null,
-              "build_date": "20261001",
-              "extension": "7z"
             }
           ]
         },
@@ -1592,17 +1537,6 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20261005",
-              "extension": "7z"
-            },
-            {
-              "filename": "comfyui_xpu-licyk-windows-20261001-nightly.7z",
-              "path": "portable/nightly/comfyui_xpu/comfyui_xpu-licyk-windows-20261001-nightly.7z",
-              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fcomfyui_xpu%2Fcomfyui_xpu-licyk-windows-20261001-nightly.7z",
-              "signature": "licyk",
-              "platform": "windows",
-              "channel": "nightly",
-              "version": null,
-              "build_date": "20261001",
               "extension": "7z"
             }
           ]
@@ -2393,17 +2327,6 @@
               "version": null,
               "build_date": "20261005",
               "extension": "7z"
-            },
-            {
-              "filename": "sd_webui_cuda-licyk-windows-20261001-nightly.7z",
-              "path": "portable/nightly/sd_webui_cuda/sd_webui_cuda-licyk-windows-20261001-nightly.7z",
-              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_cuda%2Fsd_webui_cuda-licyk-windows-20261001-nightly.7z",
-              "signature": "licyk",
-              "platform": "windows",
-              "channel": "nightly",
-              "version": null,
-              "build_date": "20261001",
-              "extension": "7z"
             }
           ]
         },
@@ -2590,17 +2513,6 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20261005",
-              "extension": "7z"
-            },
-            {
-              "filename": "sd_webui_forge_neo_rocm-licyk-windows-20261001-nightly.7z",
-              "path": "portable/nightly/sd_webui_forge_neo_rocm/sd_webui_forge_neo_rocm-licyk-windows-20261001-nightly.7z",
-              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fsd_webui_forge_neo_rocm%2Fsd_webui_forge_neo_rocm-licyk-windows-20261001-nightly.7z",
-              "signature": "licyk",
-              "platform": "windows",
-              "channel": "nightly",
-              "version": null,
-              "build_date": "20261001",
               "extension": "7z"
             }
           ]
