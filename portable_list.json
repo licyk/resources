@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-03T03:26:21Z",
+  "update_time": "2026-11-04T02:15:21Z",
   "resources": {
     "huggingface": {
       "windows": {
@@ -704,17 +704,6 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20261005",
-              "extension": "7z"
-            },
-            {
-              "filename": "qwen_tts_webui_rocm-licyk-windows-20261004-nightly.7z",
-              "path": "portable/nightly/qwen_tts_webui_rocm/qwen_tts_webui_rocm-licyk-windows-20261004-nightly.7z",
-              "url": "https://huggingface.co/licyk/sd-webui-all-in-one/resolve/main/portable/nightly/qwen_tts_webui_rocm/qwen_tts_webui_rocm-licyk-windows-20261004-nightly.7z",
-              "signature": "licyk",
-              "platform": "windows",
-              "channel": "nightly",
-              "version": null,
-              "build_date": "20261004",
               "extension": "7z"
             }
           ]
@@ -2342,17 +2331,6 @@
               "channel": "nightly",
               "version": null,
               "build_date": "20261005",
-              "extension": "7z"
-            },
-            {
-              "filename": "qwen_tts_webui_rocm-licyk-windows-20261004-nightly.7z",
-              "path": "portable/nightly/qwen_tts_webui_rocm/qwen_tts_webui_rocm-licyk-windows-20261004-nightly.7z",
-              "url": "https://www.modelscope.cn/api/v1/models/licyks/sd-webui-all-in-one/repo?Revision=master&FilePath=portable%2Fnightly%2Fqwen_tts_webui_rocm%2Fqwen_tts_webui_rocm-licyk-windows-20261004-nightly.7z",
-              "signature": "licyk",
-              "platform": "windows",
-              "channel": "nightly",
-              "version": null,
-              "build_date": "20261004",
               "extension": "7z"
             }
           ]
